@@ -11,7 +11,7 @@ title                    : "Samar Haider"
 title_separator          : "-"
 name                     : "Samar Haider"
 description              : "Home"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://samarh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -74,7 +74,7 @@ author:
   facebook         :
   foursquare       :
   github           : "samarh"
-  google_plus      :
+  google_plus      : "samarhaider7"
   keybase          :
   instagram        :
   lastfm           :
