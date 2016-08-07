@@ -1,6 +1,6 @@
 ---
 title: "Home"
-layout: double
+layout: single
 permalink: /home.html
 ---
 
