@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: single
-permalink: /home.html
+permalink: /
 ---
 
 First Level Header
