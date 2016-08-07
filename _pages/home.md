@@ -1,6 +1,8 @@
+---
 title: "Home"
 layout: single
 permalink: /home.html
+---
 
 First Level Header
 ====================
