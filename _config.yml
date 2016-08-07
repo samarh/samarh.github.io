@@ -65,7 +65,7 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "ML/NLP researcher"
   location         : "Lahore - Pakistan"
-  email            : samar7haider@gmail.com
+  email            : "samar7haider@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -90,7 +90,7 @@ author:
   xing             :
   youtube          :
 
-include: ["_pages"]
+
 # Reading Files
 include:
   - .htaccess
