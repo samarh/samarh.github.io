@@ -90,7 +90,7 @@ author:
   xing             :
   youtube          :
 
-
+include: ["_pages"]
 # Reading Files
 include:
   - .htaccess
