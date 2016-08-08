@@ -1,8 +1,12 @@
 ---
-title: "Home"
-layout: single
-permalink: /home.html
-author_profile: true
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 ---
 
 First Level Header
