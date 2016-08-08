@@ -2,6 +2,7 @@
 title: "Home"
 layout: single
 permalink: /home.html
+author_profile: true
 ---
 
 First Level Header
