@@ -2,7 +2,7 @@
 defaults:
   # _pages
   - scope:
-      path: "/"
+      path: ""
       permalink: /
       type: pages
     values:
