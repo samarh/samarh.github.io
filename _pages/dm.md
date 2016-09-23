@@ -1,7 +1,7 @@
 ---
 layout: single
-author_profile: true
-permalink: /ml/
+author_profile: false
+permalink: /dm/
 ---
 
 Welcome to the webpage for the Fall 2016 Data Mining course. Below you will find outlines of lectures from past weeks. 
