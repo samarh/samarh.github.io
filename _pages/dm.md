@@ -26,12 +26,12 @@ The process:
 
 Types of Machine Learning:
 1. Supervised learning
-  * Regression (e.g. stock market prediction)
-  * Classification (e.g. spam filtering)
+    * Regression (e.g. stock market prediction)
+    * Classification (e.g. spam filtering)
 2. Unsupervised learning
-  * Clustering (e.g. news aggregation)
+    * Clustering (e.g. news aggregation)
 4. Reinforcement learning
-  * Automonous agents (e.g. Boston Dynamics' BIGDOG)
+    * Automonous agents (e.g. Boston Dynamics' BIGDOG)
 
 A simple approach is to simply return the label of the the instance in the data that is closest to the input. This is called the k-nearest neighbours algorithm, where k is a variable, usually an odd number, that dictates how many neighbours will be used to compute an output. There are two disadvantages to this approach: one, you need to carry that data along with yourself everywhere you go, and two, your predictions fail at inputs that are far away from your instances in your dataset.
 
