@@ -20,11 +20,13 @@ The essence of ML is:
 * But we do have data on it
 
 The process:
+
 1. You feed the data to a learning algorithm
 2. The learning algorithm then spits out a hypothesis
 3. You then give the hypothesis a fresh input and it should ideally give you a reasonable output
 
 Types of Machine Learning:
+
 1. Supervised learning
     * Regression (e.g. stock market prediction)
     * Classification (e.g. spam filtering)
