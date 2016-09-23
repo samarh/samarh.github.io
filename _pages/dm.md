@@ -4,7 +4,7 @@ author_profile: false
 permalink: /dm/
 ---
 
-Welcome to the webpage for the Fall 2016 Data Mining course. Below you will find outlines of lectures from past weeks. 
+Welcome to the webpage for the Fall 2016 Data Mining course. Below you will find outlines of lectures from past weeks with links to relevant material.
 
 ## Week 1
 "You may not know it, but machine learning is all around you. When you type a query into a search engine, it’s how the engine figures out which results to show you (and which ads, as well). When you read your e-mail, you don’t see most of the spam, because machine learning fltered it out. Go to Amazon.com to buy a book or Netfix to watch a video, and a machine-learning system helpfully recommends some you might like. Facebook uses machine learning to decide which updates to show you, and Twitter does the same for tweets. Whenever you use a computer, chances are machine learning is involved somewhere." - Excerpt from [Pedro Domingo](https://homes.cs.washington.edu/~pedrod/)'s [The Master Algorithm](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708)
