@@ -14,18 +14,18 @@ programmed." - [Arthur Samuel](http://infolab.stanford.edu/pub/voy/museum/samuel
 
 More formally, "A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E." - [Tom Mitchell](www.cs.cmu.edu/~tom/) (1999)
 
-The essence of ML is:
+*The essence of Machine Learning:*
 * A pattern exists
 * We cannot pin it down mathematically
 * But we do have data on it
 
-The process:
+*The learning process:*
 
 1. You feed the data to a learning algorithm
-2. The learning algorithm then spits out a hypothesis
-3. You then give the hypothesis a fresh input and it should ideally give you a reasonable output
+2. The learning algorithm spits out a hypothesis
+3. You give the hypothesis a fresh input and it should ideally give you a reasonable output
 
-Types of Machine Learning:
+*Types of Machine Learning:*
 
 1. Supervised learning
     * Regression (e.g. stock market prediction)
