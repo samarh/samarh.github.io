@@ -15,9 +15,9 @@ programmed." - [Arthur Samuel](http://infolab.stanford.edu/pub/voy/museum/samuel
 More formally, "A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E." - [Tom Mitchell](www.cs.cmu.edu/~tom/) (1999)
 
 The essence of ML is:
-- A pattern exists
-- We cannot pin it down mathematically
-- But we do have data on it
+* A pattern exists
+* We cannot pin it down mathematically
+* But we do have data on it
 
 The process:
 1. You feed the data to a learning algorithm
