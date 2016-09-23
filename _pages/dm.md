@@ -12,7 +12,7 @@ Welcome to the webpage for the Fall 2016 Data Mining course. Below you will find
 Machine Learning is "A field of study that gives computers the ability to learn without being explicitly
 programmed." - [Arthur Samuel](http://infolab.stanford.edu/pub/voy/museum/samuel.html) (1959)
 
-More formally, "A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E." - [Tom Mitchell](www.cs.cmu.edu/~tom/) (1999)
+More formally, "A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E." - [Tom Mitchell](http://www.cs.cmu.edu/~tom/) (1999)
 
 **The essence of Machine Learning:**
 
