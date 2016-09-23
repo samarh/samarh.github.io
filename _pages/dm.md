@@ -41,7 +41,9 @@ A simple approach is to simply return the label of the the instance in the data 
 A better approach is to learn a function that can map an input to an output.
 
 **Talks**
+
 [Fei-Fei Li: How we're teaching computers to understand pictures](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?language=en), TED2015
+
 [Jeremy Howard: The wonderful and terrifying implications of computers that can learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn?language=en), TEDxBrussels 2014
 
 ## Week 2
