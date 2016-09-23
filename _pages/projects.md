@@ -4,4 +4,4 @@ author_profile: true
 permalink: /projects/
 ---
 
-[Under Construction]
+[Under construction]
