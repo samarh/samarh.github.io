@@ -46,24 +46,24 @@ A better approach is to learn a function that can map an input to an output.
 * [Jeremy Howard: The wonderful and terrifying implications of computers that can learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn?language=en), TEDxBrussels 2014
 
 ## Week 2
-Please read upto and including the LMS Algorithm under Part I Linear Regression from [Lecture 1](http://cs229.stanford.edu/notes/cs229-notes1.pdf) of Stanford's [CS229 Machine Learning](http://cs229.stanford.edu/) course taught by Prof. [Andrew Ng](http://www.andrewng.org/).
+Please read upto and including the LMS Algorithm under Part I Linear Regression from [Lecture 1](https://cs229.stanford.edu/notes/cs229-notes1.pdf) of Stanford's [CS229 Machine Learning](https://cs229.stanford.edu/) course taught by Prof. [Andrew Ng](https://www.andrewng.org/).
 
 ## Week 3
 **Statistical Analysis**
 
-* [Lionel Messi is Impossible](http://fivethirtyeight.com/features/lionel-messi-is-impossible/)
+* [Lionel Messi is Impossible](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)
 * [Opta Joe](https://twitter.com/OptaJoe)
 
 **Datasets**
 
-* [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/)
 * [Kaggle](https://www.kaggle.com/datasets)
-* [KDnuggets](http://www.kdnuggets.com/datasets/index.html)
+* [KDnuggets](https://www.kdnuggets.com/datasets/index.html)
 * [BigML](https://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/)
 
 **Tools**
 
-* [Weka](www.cs.waikato.ac.nz/ml/weka/)
+* [Weka](https://www.cs.waikato.ac.nz/ml/weka/)
 * [KNIME](https://www.knime.org/)
 * [Python](https://www.python.org/) + [SciKit-Learn](https://www.scikit-learn.org/)
 * [R](https://www.r-project.org/)
