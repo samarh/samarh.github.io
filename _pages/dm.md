@@ -60,7 +60,7 @@ Data Mining is the "Extraction of interesting (non-trivial, implicit, previously
 
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/)
 * [Kaggle](https://www.kaggle.com/datasets)
-* [KDnuggets](https://www.kdnuggets.com/datasets/index.html)
+* [KDnuggets](http://www.kdnuggets.com/datasets/index.html)
 * [BigML](https://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/)
 
 **Tools**
