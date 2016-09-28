@@ -65,7 +65,7 @@ Data Mining is the "Extraction of interesting (non-trivial, implicit, previously
 
 **Tools**
 
-* [Weka](https://www.cs.waikato.ac.nz/ml/weka/)
+* [Weka](http://www.cs.waikato.ac.nz/ml/weka/)
 * [KNIME](https://www.knime.org/)
-* [Python](https://www.python.org/) + [SciKit-Learn](https://www.scikit-learn.org/)
+* [Python](https://www.python.org/) + [SciKit-Learn](http://www.scikit-learn.org/)
 * [R](https://www.r-project.org/)
