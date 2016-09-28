@@ -51,6 +51,8 @@ Please read upto and including the LMS Algorithm under Part I Linear Regression 
 ## Week 3
 Data Mining is the "Extraction of interesting (non-trivial, implicit, previously unknown and potentially useful) patterns or knowledge from a huge amount of data." - [Jiawei Han](http://hanj.cs.illinois.edu/) (2011)
 
+Cross Industry Standard Process for Data Mining, commonly known by its acronym [CRISP-DM](https://en.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining), is a data mining process model that describes commonly used approaches that data mining experts use to tackle problems.
+
 **Statistical Analysis**
 
 * [Lionel Messi is Impossible](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)
