@@ -46,9 +46,11 @@ A better approach is to learn a function that can map an input to an output.
 * [Jeremy Howard: The wonderful and terrifying implications of computers that can learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn?language=en), TEDxBrussels 2014
 
 ## Week 2
-Please read upto and including the LMS Algorithm under Part I Linear Regression from [Lecture 1](https://cs229.stanford.edu/notes/cs229-notes1.pdf) of Stanford's [CS229 Machine Learning](https://cs229.stanford.edu/) course taught by Prof. [Andrew Ng](https://www.andrewng.org/).
+Please read upto and including the LMS Algorithm under Part I Linear Regression from [Lecture 1](http://cs229.stanford.edu/notes/cs229-notes1.pdf) of Stanford's [CS229 Machine Learning](http://cs229.stanford.edu/) course taught by Prof. [Andrew Ng](http://www.andrewng.org/).
 
 ## Week 3
+Data Mining is the "Extraction of interesting (non-trivial, implicit, previously unknown and potentially useful) patterns or knowledge from a huge amount of data." - [Jiawei Han](http://hanj.cs.illinois.edu/) (2011)
+
 **Statistical Analysis**
 
 * [Lionel Messi is Impossible](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)
