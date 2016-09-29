@@ -63,7 +63,7 @@ Cross Industry Standard Process for Data Mining, commonly known by its acronym [
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/)
 * [Kaggle](https://www.kaggle.com/datasets)
 * [KDnuggets](http://www.kdnuggets.com/datasets/index.html)
-* [BigML](https://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/)
+* [BigML](http://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/)
 
 **Tools**
 
