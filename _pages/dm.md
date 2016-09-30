@@ -71,3 +71,7 @@ Cross Industry Standard Process for Data Mining, commonly known by its acronym [
 * [KNIME](https://www.knime.org/)
 * [Python](https://www.python.org/) + [SciKit-Learn](http://www.scikit-learn.org/)
 * [R](https://www.r-project.org/)
+
+**Course Project**
+
+Please head over to this [link](https://docs.google.com/forms/d/e/1FAIpQLSeLyZeD35IL9hMAEBJVYQvfgbMPmn6_sakWmafYrHbMA_cmaA/viewform) to submit your project proposal. The submission deadline is 11:59 PM on Tuesday, the 5th of October, 2016.
