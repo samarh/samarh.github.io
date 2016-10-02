@@ -74,4 +74,4 @@ Cross Industry Standard Process for Data Mining, commonly known by its acronym [
 
 **Course Project**
 
-Please head over to this [link](https://docs.google.com/forms/d/e/1FAIpQLSeLyZeD35IL9hMAEBJVYQvfgbMPmn6_sakWmafYrHbMA_cmaA/viewform) to submit your project proposal. The submission deadline is 11:59 PM on Tuesday, the 4th of October, 2016.
+Please head over to this [link](https://docs.google.com/forms/d/e/1FAIpQLSeLyZeD35IL9hMAEBJVYQvfgbMPmn6_sakWmafYrHbMA_cmaA/viewform) to submit your project proposal. The submission deadline is 11:59 PM on Wednesday, the 5th of October, 2016.
