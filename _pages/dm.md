@@ -68,7 +68,7 @@ Cross Industry Standard Process for Data Mining, commonly known by its acronym [
 **Tools**
 
 * [Weka](http://www.cs.waikato.ac.nz/ml/weka/)
-* [KNIME](https://www.knime.org/)
+* [RapidMiner](https://rapidminer.com/)
 * [Python](https://www.python.org/) + [SciKit-Learn](http://www.scikit-learn.org/)
 * [R](https://www.r-project.org/)
 
