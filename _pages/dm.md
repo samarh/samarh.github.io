@@ -89,4 +89,4 @@ Below are links to useful resources to help you get started. You are encouraged 
 * [The Scientific Data Mining Process](http://www.siam.org/books/ot112/ot112_chapter4.pdf)
 * [An Overview of Data Mining Techniques](http://www.thearling.com/text/dmtechniques/dmtechniques.htm)
 
-Please complete Week 2's reading for the next class.
+Please complete Week 2's reading before the next class.
