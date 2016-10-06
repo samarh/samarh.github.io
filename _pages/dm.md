@@ -79,6 +79,6 @@ Please head over to [this](https://docs.google.com/forms/d/e/1FAIpQLSeLyZeD35IL9
 Those of you who plan to do your project in Weka will first need to convert your dataset into a format it accepts. You can read about Weka's file format [here](http://www.cs.waikato.ac.nz/ml/weka/arff.html) and use [this](http://ikuz.eu/csv2arff/) handy tool to convert CSV files into the required ARFF ones.
 
 ## Week 4
-Students who did not submit their project proposals by the submission deadline can now do so [here](https://docs.google.com/forms/d/e/1FAIpQLSeLyZeD35IL9hMAEBJVYQvfgbMPmn6_sakWmafYrHbMA_cmaA/viewform), subject to 10-mark penalty. The hard deadline is 11:59 PM on Wednesday, the 12th of October, 2016. Any students who still fail to submit their proposals by then will lose all credit for the course project.
+Students who did not submit their project proposals by the submission deadline can now do so [here](https://docs.google.com/forms/d/e/1FAIpQLSeLyZeD35IL9hMAEBJVYQvfgbMPmn6_sakWmafYrHbMA_cmaA/viewform), subject to a 10-mark penalty. The hard deadline is 11:59 PM on Wednesday, the 12th of October, 2016. Any students who still fail to submit their proposals by then will lose all credit for the course project.
 
 Please complete Week 2's reading for the next class.
