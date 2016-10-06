@@ -81,4 +81,12 @@ Those of you who plan to do your project in Weka will first need to convert your
 ## Week 4
 Students who did not submit their project proposals by the submission deadline can now do so [here](https://docs.google.com/forms/d/e/1FAIpQLSeLyZeD35IL9hMAEBJVYQvfgbMPmn6_sakWmafYrHbMA_cmaA/viewform), subject to a 10-mark penalty. The hard deadline is 11:59 PM on Wednesday, the 12th of October, 2016. Any students who still fail to submit their proposals by then will lose all credit for the course project.
 
+Students who have already submitted their proposals should start working on their projects by first looking into their chosen datasets in detail and figuring out what predictions can be made from the available attributes. You can combine additional datasets in order to make more complex predictions.
+
+Below are links to useful resources to help you get started. You are encouraged to find more online, especially tutorials on effectively carrying out data mining experiments in your tool of choice.
+
+* [What is Data Mining?](http://www.anderson.ucla.edu/faculty/jason.frand/teacher/technologies/palace/datamining.htm)
+* [The Scientific Data Mining Process](http://www.siam.org/books/ot112/ot112_chapter4.pdf)
+* [An Overview of Data Mining Techniques](http://www.thearling.com/text/dmtechniques/dmtechniques.htm)
+
 Please complete Week 2's reading for the next class.
