@@ -83,7 +83,7 @@ Students who did not submit their project proposals by the submission deadline c
 
 Students who have already submitted their proposals should start working on their projects by first looking into their chosen datasets in detail and figuring out what predictions can be made from the available attributes. You can even combine additional datasets in order to make more interesting predictions.
 
-Here are links to a few useful data mining overviews to help you get started.
+Here are links to a few useful resources to help you get started.
 
 * [What is Data Mining?](http://www.anderson.ucla.edu/faculty/jason.frand/teacher/technologies/palace/datamining.htm)
 * [The Scientific Data Mining Process](http://www.siam.org/books/ot112/ot112_chapter4.pdf)
