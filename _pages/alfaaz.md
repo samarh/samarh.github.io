@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /dm/
+permalink: /alfaaz/
 ---
 
 # Alfaaz: Learning Urdu Word Representations in Vector Space
