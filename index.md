@@ -2,7 +2,6 @@
 layout: single
 author_profile: true
 ---
-## Bio
 Researcher at the Center for Language Engineering in Lahore, Pakistan, mentored by Prof. Sarmad Hussain. I'm interested in machine learning and its applications in natural langauage processing.
 
 I recieved my Bachelor's in Computer Science from the University of Engineering and Technology, Lahore, in 2016. My senior thesis was on the use of deep learning techniques for facial keypoint detection, and my adviser was Prof. Haroon A. Babri.
@@ -32,6 +31,12 @@ Implemented a handwritten digit classifier in Matlab using a vanilla neural netw
 ### Twitter Sentiment Analysis
 Parsed real-time data from the Twitter global feed and performed elementary sentiment analysis on English tweets using the AFINN-111 word-sentiment lexicon.
 [Code]
+
+## Teaching
+
+* CSE421 Data Mining, Fall 2016
+* CS630 Pattern Recognition, Spring 2016
+* CSE473 Digital Image Processing, Spring 2016
 
 ## Education
 
