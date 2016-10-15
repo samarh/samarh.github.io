@@ -32,6 +32,10 @@ Implemented a handwritten digit classifier in Matlab using a vanilla neural netw
 Parsed real-time data from the Twitter global feed and performed elementary sentiment analysis on English tweets using the AFINN-111 word-sentiment lexicon. <br>
 [Code]
 
+### Ping Pong HawkEye
+Employed computer vision techniques to create an application for detecting and tracking a table tennis ball in real time in order to analyze shot trajectories during a rally. <br>
+[Code]
+
 ## Teaching
 
 * CSE421 Data Mining, Fall 2016
