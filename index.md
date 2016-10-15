@@ -18,11 +18,11 @@ In my spare time I enjoy reading and sketching. I am an avid table tennis and so
 
 ### Data Science for Soccer
 Used machine learning to predict match outcomes, learn association rules between half-time and full-time results, and guess players' starting positions from a decade of English Premier League match statistics, betting odds, and in-game events. <br>
-[Data]
+[Dataset]
 
 ### Automatic License Plate Recognition
 Built an image processing system that localizes license plates from natural images of a range of vechicles under different lighting conditions and then recognizes their registration numbers. <br>
-[Report][Code]
+[Report][Code][Dataset]
 
 ### Handwritten Digit Classifier
 Implemented a handwritten digit classifier in Matlab using a vanilla neural network trained with batch gradient descent on a subset of MNIST. <br>
