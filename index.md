@@ -22,7 +22,7 @@ Used machine learning to predict match outcomes, learn association rules between
 [Data]
 
 ### Vechicle License Plate Recognition
-Built a system that localizes license plates from natural images of vechicles under a range of lighting conditions and reads the vehicle's registration number from them.
+Built an image processing system that localizes license plates from natural images of cars under different lighting conditions and then recognizes the vehicles' registration numbers from them.
 [Report][Code]
 
 ### Handwritten Digit Classifier
