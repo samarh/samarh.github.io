@@ -47,9 +47,10 @@ B.Sc., Computer Science, 2016
 GCE A' Level, 2012
 
 ## Awards and Honors
-Fast.ai 'Certificate in Deep Learning' International Fellowship, 2016 <br>
-Featured on Coursera as part of Andrew Ng's #LearnML campaign, 2015 <br>
-Dean's Honor List, University of Engineering and Technology, 2014 – 2016 <br>
-Ranked 10 th out of 36,022 applicants in the Engineering College Admission Test, 2012 <br>
-A' Level Full Scholarship, Lahore Grammar School, 2010 – 2012 <br>
-O' Level High Achiever Award, Lahore Grammar School, 2010
+
+* Fast.ai 'Certificate in Deep Learning' International Fellowship, 2016
+* Featured on Coursera as part of Andrew Ng's #LearnML campaign, 2015
+* Dean's Honor List, University of Engineering and Technology, 2014 – 2016
+* Ranked 10 th out of 36,022 applicants in the Engineering College Admission Test, 2012
+* A' Level Full Scholarship, Lahore Grammar School, 2010 – 2012
+* O' Level High Achiever Award, Lahore Grammar School, 2010
