@@ -20,8 +20,8 @@ In my spare time I enjoy reading and sketching. I am an avid table tennis and so
 Used machine learning to predict match outcomes, learn association rules between half-time and full-time results, and guess players' starting positions from a decade of English Premier League match statistics, betting odds, and in-game events. <br>
 [Data]
 
-### Vechicle License Plate Recognition
-Built an image processing system that localizes license plates from natural images of cars under different lighting conditions and then recognizes the vehicles' registration numbers from them. <br>
+### Automatic License Plate Recognition
+Built an image processing system that localizes license plates from natural images of a range of vechicles under different lighting conditions and then recognizes their registration numbers. <br>
 [Report][Code]
 
 ### Handwritten Digit Classifier
