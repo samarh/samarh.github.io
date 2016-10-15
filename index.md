@@ -18,11 +18,16 @@ In my spare time I enjoy reading and sketching. I am an avid table tennis and so
 ## Projects
 
 ### Mining the Premier League
-Predicted match outcomes and learned association rules between half-time and full-time results from statistics and betting odds for every English Premier League game held from 2005/2006 to 2014/2015.
-Predicted a player's starting position using play-by-play statistics of each player in the 2011/2012 season.
+Used machine learning to to predicted match outcomes, learned association rules between half-time and full-time results, and guess players' starting positions from a decade of historical soccer data.
+[Data]
 
 ### Vechicle License Plate Recognition
-Localized license plates from natural images of different types of vechicles under a range of lighting conditions and read the vehicle's registration number from them.
+Built a system that localizes license plates from natural images of vechicles under a range of lighting conditions and reads the vehicle's registration number from them.
+[Report][Code]
+
+### Handwritten Digit Classifier
+Implemented a handwritten digit classifier in Matlab using a vanilla neural network trained with batch gradient descent on a subset of MNIST.
+[Code]
 
 ## Education
 
