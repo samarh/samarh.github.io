@@ -38,14 +38,6 @@ Parsed real-time data from the Twitter global feed and performed elementary sent
 * CS630 Pattern Recognition, Spring 2016
 * CSE473 Digital Image Processing, Spring 2016
 
-## Education
-
-### University of Engineering and Technology, Lahore
-B.Sc., Computer Science, 2016
-
-### Lahore Grammar School, Lahore
-GCE A' Level, 2012
-
 ## Awards and Honors
 
 * Fast.ai 'Certificate in Deep Learning' International Fellowship, 2016
