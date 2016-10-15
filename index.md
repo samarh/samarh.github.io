@@ -11,16 +11,23 @@ In my spare time I enjoy reading and learning new stuff. I am an avid table tenn
 
 ## Research
 
-### One
-I'm a researcher at the Center for Language Engineering in Lahore, Pakistan, where I work on the natural language processing of low-resource, regional languages, with a focus on Urdu.
+### Multilingual Language Identification
 
-### Two
-I'm a researcher at the Center for Language Engineering in Lahore, Pakistan, where I work on the natural language processing of low-resource, regional languages, with a focus on Urdu.
+### Deep Convolutional Neural Networks for Facial Keypoint Detection
 
 ## Projects
 
-### One
-I'm a researcher at the Center for Language Engineering in Lahore, Pakistan, where I work on the natural language processing of low-resource, regional languages, with a focus on Urdu.
+### Mining the Premier League
+Predicted match outcomes and learned association rules between half-time and full-time results from statistics and betting odds for every English Premier League game held from 2005/2006 to 2014/2015.
+Predicted a player's starting position using play-by-play statistics of each player in the 2011/2012 season.
 
-### Two
-I'm a researcher at the Center for Language Engineering in Lahore, Pakistan, where I work on the natural language processing of low-resource, regional languages, with a focus on Urdu.
+### Vechicle License Plate Recognition
+Localized license plates from natural images of different types of vechicles under a range of lighting conditions and read the vehicle's registration number from them.
+
+## Education
+
+### University of Engineering and Technology, Lahore
+B.Sc., Computer Science, 2016
+
+### Lahore Grammar School, Lahore
+GCE A' Level, 2012
