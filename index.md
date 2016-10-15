@@ -19,17 +19,14 @@ In my spare time I enjoy reading and sketching. I am an avid table tennis and so
 
 ### Mining the Premier League
 Used machine learning to to predicted match outcomes, learned association rules between half-time and full-time results, and guess players' starting positions from a decade of historical soccer data.
-
 [Data]
 
 ### Vechicle License Plate Recognition
 Built a system that localizes license plates from natural images of vechicles under a range of lighting conditions and reads the vehicle's registration number from them.
-
 [Report][Code]
 
 ### Handwritten Digit Classifier
 Implemented a handwritten digit classifier in Matlab using a vanilla neural network trained with batch gradient descent on a subset of MNIST.
-
 [Code]
 
 ## Education
