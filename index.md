@@ -10,13 +10,17 @@ I recieved my Bachelor's in Computer Science from the University of Engineering 
 In my spare time I enjoy reading and learning new stuff. I am an avid table tennis and soccer player.
 
 ## Research
+
 ### One
 I'm a researcher at the Center for Language Engineering in Lahore, Pakistan, where I work on the natural language processing of low-resource, regional languages, with a focus on Urdu.
+
 ### Two
 I'm a researcher at the Center for Language Engineering in Lahore, Pakistan, where I work on the natural language processing of low-resource, regional languages, with a focus on Urdu.
 
 ## Projects
+
 ### One
 I'm a researcher at the Center for Language Engineering in Lahore, Pakistan, where I work on the natural language processing of low-resource, regional languages, with a focus on Urdu.
+
 ### Two
 I'm a researcher at the Center for Language Engineering in Lahore, Pakistan, where I work on the natural language processing of low-resource, regional languages, with a focus on Urdu.
