@@ -17,8 +17,8 @@ In my spare time I enjoy reading and sketching. I am an avid table tennis and so
 
 ## Projects
 
-### Mining the Premier League
-Used machine learning to to predicted match outcomes, learned association rules between half-time and full-time results, and guess players' starting positions from a decade of historical soccer data.
+### Data Science for Soccer
+Used machine learning to predict match outcomes, learn association rules between half-time and full-time results, and guess players' starting positions from a decade of English Premier League match statistics, betting odds, and in-game events.
 [Data]
 
 ### Vechicle License Plate Recognition
