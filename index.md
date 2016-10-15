@@ -17,19 +17,19 @@ In my spare time I enjoy reading and sketching. I am an avid table tennis and so
 ## Projects
 
 ### Data Science for Soccer
-Used machine learning to predict match outcomes, learn association rules between half-time and full-time results, and guess players' starting positions from a decade of English Premier League match statistics, betting odds, and in-game events.
+Used machine learning to predict match outcomes, learn association rules between half-time and full-time results, and guess players' starting positions from a decade of English Premier League match statistics, betting odds, and in-game events. <br>
 [Data]
 
 ### Vechicle License Plate Recognition
-Built an image processing system that localizes license plates from natural images of cars under different lighting conditions and then recognizes the vehicles' registration numbers from them.
+Built an image processing system that localizes license plates from natural images of cars under different lighting conditions and then recognizes the vehicles' registration numbers from them. <br>
 [Report][Code]
 
 ### Handwritten Digit Classifier
-Implemented a handwritten digit classifier in Matlab using a vanilla neural network trained with batch gradient descent on a subset of MNIST.
+Implemented a handwritten digit classifier in Matlab using a vanilla neural network trained with batch gradient descent on a subset of MNIST. <br>
 [Code]
 
 ### Twitter Sentiment Analysis
-Parsed real-time data from the Twitter global feed and performed elementary sentiment analysis on English tweets using the AFINN-111 word-sentiment lexicon.
+Parsed real-time data from the Twitter global feed and performed elementary sentiment analysis on English tweets using the AFINN-111 word-sentiment lexicon. <br>
 [Code]
 
 ## Teaching
@@ -47,9 +47,9 @@ B.Sc., Computer Science, 2016
 GCE A' Level, 2012
 
 ## Awards and Honors
-Fast.ai 'Certificate in Deep Learning' International Fellowship, 2016
-Featured on Coursera as part of Andrew Ng's #LearnML campaign, 2015
-Dean's Honor List, University of Engineering and Technology, 2014 – 2016
-Ranked 10 th out of 36,022 applicants in the Engineering College Admission Test, 2012
-A' Level Full Scholarship, Lahore Grammar School, 2010 – 2012
-O' Level High Achiever Award, Lahore Grammar School 2010
+Fast.ai 'Certificate in Deep Learning' International Fellowship, 2016 <br>
+Featured on Coursera as part of Andrew Ng's #LearnML campaign, 2015 <br>
+Dean's Honor List, University of Engineering and Technology, 2014 – 2016 <br>
+Ranked 10 th out of 36,022 applicants in the Engineering College Admission Test, 2012 <br>
+A' Level Full Scholarship, Lahore Grammar School, 2010 – 2012 <br>
+O' Level High Achiever Award, Lahore Grammar School, 2010
