@@ -21,19 +21,19 @@ Used machine learning to predict match outcomes, learn association rules between
 [Dataset]
 
 ### Automatic License Plate Recognition
-Built an image processing system that localizes license plates from natural images of a range of vechicles under different lighting conditions and then recognizes their registration numbers. <br>
+Built an image processing system to localize license plates from natural images of a range of vehicles in different lighting conditions and recognize their plate numbers. <br>
 [Report][Code][Dataset]
 
 ### Handwritten Digit Classifier
 Implemented a handwritten digit classifier in Matlab using a vanilla neural network trained with batch gradient descent on a subset of MNIST. <br>
 [Code]
 
-### Twitter Sentiment Analysis
-Parsed real-time data from the Twitter global feed and performed elementary sentiment analysis on English tweets using the AFINN-111 word-sentiment lexicon. <br>
+### Ping Pong HawkEye
+Created a computer vision application that detects and tracks a table tennis ball in a real-time video stream to help analyze the trajectories of shots in a rally. <br>
 [Code]
 
-### Ping Pong HawkEye
-Employed computer vision techniques to create an application for detecting and tracking a table tennis ball in real time in order to analyze shot trajectories during a rally. <br>
+### Twitter Sentiment Analysis
+Parsed real-time data from the Twitter global feed and performed elementary sentiment analysis on English tweets using the AFINN-111 word-sentiment lexicon. <br>
 [Code]
 
 ## Teaching
