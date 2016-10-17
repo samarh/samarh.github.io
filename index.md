@@ -22,7 +22,7 @@ Used machine learning to predict match outcomes, learn association rules between
 
 ### Automatic License Plate Recognition
 Built an image processing system to localize license plates from natural images of a range of vehicles in different lighting conditions and recognize their plate numbers. <br>
-[Report][Code][Dataset]
+[Code][Dataset]
 
 ### Twitter Sentiment Analysis
 Parsed real-time data from the Twitter global feed and performed elementary sentiment analysis on English tweets using the AFINN-111 word-sentiment lexicon. <br>
