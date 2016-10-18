@@ -6,7 +6,7 @@ Researcher at the Center for Language Engineering in Lahore, Pakistan, mentored 
 
 I received my Bachelor's in Computer Science from the University of Engineering and Technology, Lahore, in 2016. My senior thesis was on the use of deep learning techniques for facial keypoint detection, and my adviser was Prof. Haroon A. Babri.
 
-In my spare time I enjoy reading and sketching. I am an avid table tennis and soccer player.
+You can view a detailed CV [here](https://www.dropbox.com/s/br3jwpdt7sgh7cn/cv.pdf?dl=0).
 
 ## Research
 
