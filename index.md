@@ -35,7 +35,7 @@ Implemented from scratch a vanilla feed-forward neural network trained with batc
 [Code]
 
 ## Teaching
-Teaching Assistant:
+Teaching Assistant (TA) for:
 
 * CSE421 Data Mining, Fall 2016
 * CS630 Pattern Recognition, Spring 2016
