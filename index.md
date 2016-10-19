@@ -6,7 +6,7 @@ Research Assistant (RA) at the [Center for Language Engineering](http://www.cle.
 
 I received my Bachelor's degree in Computer Science from the [University of Engineering and Technology, Lahore](http://www.uet.edu.pk/), in 2016. My senior thesis was on the use of deep learning techniques for facial keypoint detection, and my adviser was Prof. [Haroon A. Babri](http://dblp.uni-trier.de/pers/hd/b/Babri:Haroon_Atique).
 
-My research interests center around machine learning, particularly deep learning and its applications in natural langauge processing and computer vision.
+I am interested in machine learning, particularly deep learning and its applications in natural langauge processing and computer vision.
 
 ## Research
 
