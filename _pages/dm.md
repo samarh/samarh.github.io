@@ -95,3 +95,18 @@ Additionally, you might also want to start learning how to carry out data mining
 * [RapidMiner Tutorial](https://www.youtube.com/watch?v=aOaFxNWTTMA&list=PLssWC2d9JhOZLbQNZ80uOxLypglgWqbJA)
 
 Please complete Week 2's reading before the next class.
+
+## Week 5
+Read the following sections from the resources linked:
+
+* [Linear Regression with Multiple Variables](http://www.holehouse.org/mlclass/04_Linear_Regression_with_multiple_variables.html)
+  * Features and polynomial regression
+* [Regularization](http://www.holehouse.org/mlclass/07_Regularization.html)
+  * Regularized linear regression
+* [Advice for applying machine learning](http://www.holehouse.org/mlclass/10_Advice_for_applying_machine_learning.html)
+  * Evaluating a hypothesis
+  * Model selection and training/validation/test sets
+  * Diagnosis - bias vs. variance
+  * Regularization and bias/variance
+
+Good luck for your midterms!
