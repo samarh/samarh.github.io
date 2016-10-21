@@ -103,7 +103,7 @@ Please read the following sections from the resources linked:
   * Features and polynomial regression
 * [Regularization](http://www.holehouse.org/mlclass/07_Regularization.html)
   * Regularized linear regression
-* [Advice for applying machine learning](http://www.holehouse.org/mlclass/10_Advice_for_applying_machine_learning.html)
+* [Advice for Applying Machine Learning](http://www.holehouse.org/mlclass/10_Advice_for_applying_machine_learning.html)
   * Evaluating a hypothesis
   * Model selection and training/validation/test sets
   * Diagnosis - bias vs. variance
