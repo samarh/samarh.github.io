@@ -111,5 +111,3 @@ Please read the following sections from the resources linked:
   * Regularization and bias/variance
 
 Good luck for your midterms!
-
-$\lambda$
