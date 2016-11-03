@@ -130,7 +130,8 @@ Listed below are the sections that must be a part of your project report and pre
 
 * Introduction
 * Dataset
-* Methodology
+* Preprocessing
+* Methods
 * Experiments
 * Results
 * Discussion
