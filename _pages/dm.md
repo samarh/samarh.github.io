@@ -124,4 +124,12 @@ Please read the following sections from the resources linked:
   * Gaussian distribution
   * Anomaly detection algorithm
 
-The requirements for the project presentation and proposal and their respective deadlines will be put up tomorrow.
+Listed below are the sections that must be a part of your project report and presentation. The deadlines for the submission of should be up by tomorrow.
+
+* Introduction
+* Dataset
+* Methodology
+* Experiments
+* Results
+* Discussion
+* Conclusion
