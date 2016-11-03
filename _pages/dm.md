@@ -111,3 +111,15 @@ Please read the following sections from the resources linked:
   * Regularization and bias/variance
 
 Good luck for your midterms!
+
+## Week 6
+Please read the following sections from the resources linked:
+
+* [Advice for Applying Machine Learning](http://www.holehouse.org/mlclass/10_Advice_for_applying_machine_learning.html)
+  * Learning curves
+* [Linear Regression with Multiple Variables](http://www.holehouse.org/mlclass/04_Linear_Regression_with_multiple_variables.html)
+  * Gradient descent in practice: feature scaling
+* [Anomaly Detection](http://www.holehouse.org/mlclass/15_Anomaly_Detection.html)
+  * Problem motivation
+  * Gaussian distribution
+  * Anomaly detection algorithm
