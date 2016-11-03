@@ -73,6 +73,7 @@ Cross Industry Standard Process for Data Mining, commonly known by its acronym [
 * [R](https://www.r-project.org/)
 
 **Course Project**
+
 Please head over to [this](https://docs.google.com/forms/d/e/1FAIpQLSeLyZeD35IL9hMAEBJVYQvfgbMPmn6_sakWmafYrHbMA_cmaA/viewform) link to submit your project proposal. The submission deadline is 11:59 PM on Wednesday, the 5th of October, 2016.
 
 Those of you who plan to do your project in Weka will first need to convert your dataset into a format it accepts. You can read about Weka's file format [here](http://www.cs.waikato.ac.nz/ml/weka/arff.html) and use [this](http://ikuz.eu/csv2arff/) handy tool to convert CSV files into the required ARFF ones.
@@ -124,6 +125,7 @@ Please read the following sections from the resources linked:
   * Anomaly detection algorithm
 
 **Course Project**
+
 Listed below are the sections that must be a part of your project report and presentation. The deadlines for the submission of both should be up by tomorrow.
 
 * Introduction
