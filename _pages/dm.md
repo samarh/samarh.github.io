@@ -135,3 +135,5 @@ Listed below are the sections that must be a part of your project report and pre
 * Results
 * Discussion
 * Conclusion
+
+You are *strongly* advised to go through [these](http://cs229.stanford.edu/projects2015.html) project reports from Stanford's [CS229 Machine Learning](http://cs229.stanford.edu/) course in order to get an idea of how you should write your own.
