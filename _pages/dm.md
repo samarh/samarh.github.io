@@ -123,3 +123,5 @@ Please read the following sections from the resources linked:
   * Problem motivation
   * Gaussian distribution
   * Anomaly detection algorithm
+
+The requirements for the project presentation and proposal and their respective deadlines will be put up tomorrow.
