@@ -126,7 +126,7 @@ Please read the following sections from the resources linked:
 
 **Course Project**
 
-Listed below are the sections that must be a part of your project report and presentation. The deadlines for the submission of both should be up by tomorrow.
+Listed below are the sections that must be a part of your project report and presentation. The deadlines for the submission of both will be announced soon.
 
 * Introduction
 * Dataset
@@ -138,3 +138,13 @@ Listed below are the sections that must be a part of your project report and pre
 * Conclusion
 
 You are *strongly* advised to go through [these](http://cs229.stanford.edu/projects2015.html) project reports from Stanford's [CS229 Machine Learning](http://cs229.stanford.edu/) course in order to get an idea of how you should write your own.
+
+**IMPORTANT**
+
+Dr. Shahbaz has reviewed your proposals and is of the opinion that the following groups listed below might want to reconsider their chosen topics. They can look into other datasets and meet with me after next class if they wish to discuss anything.
+
+* 2013-EE-04, 2013-EE-06, 2013-EE-52, 2013-EE-55
+* 2013-CS-63, 2013-CS-, 2013-CS-62
+* 2013-EE-147, 2013-CS-29, 2013-CS-31, 2013-CS-32
+* 2013-CS-18, 2013-CS-07, 2013-CS-16
+* 2013-CS-19, 2013-CS-11, 2013-CS-30
