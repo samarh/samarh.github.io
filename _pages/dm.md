@@ -144,7 +144,7 @@ You are *strongly* advised to go through [these](http://cs229.stanford.edu/proje
 Dr. Shahbaz has reviewed your proposals and is of the opinion that the following groups listed below might want to reconsider their chosen topics. They can look into other datasets and meet with me after next class if they wish to discuss anything.
 
 * 2013-EE-04, 2013-EE-06, 2013-EE-52, 2013-EE-55
-* 2013-CS-63, 2013-CS-, 2013-CS-62
+* 2013-CS-63, 2013-CS-68, 2013-CS-62
 * 2013-EE-147, 2013-CS-29, 2013-CS-31, 2013-CS-32
 * 2013-CS-18, 2013-CS-07, 2013-CS-16
 * 2013-CS-19, 2013-CS-11, 2013-CS-30
