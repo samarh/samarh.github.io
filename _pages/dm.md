@@ -129,13 +129,14 @@ Please read the following sections from the resources linked:
 Listed below are the sections that must be a part of your project report and presentation. The deadlines for the submission of both will be announced soon.
 
 * Introduction
+* Related Work
 * Dataset
-* Preprocessing
 * Methods
 * Experiments
 * Results
 * Discussion
 * Conclusion
+* References
 
 You are *strongly* advised to go through [these](http://cs229.stanford.edu/projects2015.html) project reports from Stanford's [CS229 Machine Learning](http://cs229.stanford.edu/) course in order to get an idea of how you should write your own. All reports must be based on the [IEEE Manuscript Template](https://www.ieee.org/documents/trans_jour.docx).
 
