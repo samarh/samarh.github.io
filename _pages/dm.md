@@ -138,7 +138,7 @@ Listed below are the sections that must be a part of your project report and pre
 * Conclusion
 * References
 
-You are *strongly* advised to go through [these](http://cs229.stanford.edu/projects2015.html) project reports from Stanford's [CS229 Machine Learning](http://cs229.stanford.edu/) course in order to get an idea of how you should write your own. All reports must be based on the [IEEE Manuscript Template](https://www.ieee.org/documents/trans_jour.docx).
+You are *strongly* advised to go through [these](http://cs229.stanford.edu/projects2015.html) project reports from Stanford's [CS229 Machine Learning](http://cs229.stanford.edu/) course in order to get an idea of how you should write your own. All reports must be based on the [IEEE Manuscript Template](https://www.ieee.org/documents/trans_jour.docx). There is a zero tolerance policy towards plagiarism.
 
 **IMPORTANT**
 
