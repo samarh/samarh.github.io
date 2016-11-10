@@ -149,3 +149,9 @@ Dr. Shahbaz has reviewed your proposals and is of the opinion that the groups li
 * 2013-EE-147, 2013-CS-29, 2013-CS-31, 2013-CS-32
 * 2013-CS-18, 2013-CS-07, 2013-CS-16
 * 2013-CS-19, 2013-CS-11, 2013-CS-30
+
+## Week 7
+Please read the following sections from the resources linked:
+
+* [Clustering](http://www.holehouse.org/mlclass/13_Clustering.html)
+  * All of it
