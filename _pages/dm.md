@@ -155,3 +155,7 @@ Please read the following sections from the resources linked:
 
 * [Clustering](http://www.holehouse.org/mlclass/13_Clustering.html)
   * All of it
+
+**Course Project**
+
+The deadline for the submission of the project report is 11:59 PM on Wednesday, the 14th of December, 2016. The project presentations will be held in the following class.
