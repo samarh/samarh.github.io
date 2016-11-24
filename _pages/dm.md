@@ -159,3 +159,9 @@ Please read the following sections from the resources linked:
 **Course Project**
 
 The deadline for the submission of the project report is 11:59 PM on Wednesday, the 14th of December, 2016. The project presentations will be held in the following class.
+
+## Week 8
+Please read the following sections from the resources linked:
+
+* [Logistic Regression](http://www.holehouse.org/mlclass/06_Logistic_Regression.html)
+  * All of it
