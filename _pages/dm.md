@@ -165,3 +165,12 @@ Please read the following sections from the resources linked:
 
 * [Logistic Regression](http://www.holehouse.org/mlclass/06_Logistic_Regression.html)
   * All of it
+
+## Week 9
+Please go through the following documents and code from the repository linked:
+
+* [Stanford ML Solutions](https://github.com/merwan/ml-class)
+  * ex1.pdf
+  * mlclass-ex1
+  * ex2.pdf
+  * mlclass-ex2
