@@ -169,7 +169,7 @@ Please read the following sections from the resources linked:
 ## Week 9
 Please go through the following documents and code from the repository linked:
 
-* [Stanford ML Solutions](https://github.com/merwan/ml-class)
+* [ML Class Solutions](https://github.com/merwan/ml-class)
   * ex1.pdf
   * mlclass-ex1
   * ex2.pdf
