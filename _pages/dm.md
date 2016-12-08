@@ -170,7 +170,24 @@ Please read the following sections from the resources linked:
 Please go through the following documents and code from the repository linked:
 
 * [ML Class Solutions](https://github.com/merwan/ml-class)
-  * ex1.pdf
-  * mlclass-ex1
-  * ex2.pdf
-  * mlclass-ex2
+  * Linear Regression
+    * ex1.pdf
+    * mlclass-ex1
+  * Logistic Regression
+    * ex2.pdf
+    * mlclass-ex2
+  
+
+## Week 10
+Please go through the following documents and code from the repository linked:
+
+* [ML Class Solutions](https://github.com/merwan/ml-class)
+  * Bias vs. Variance
+    * ex5.pdf
+    * mlclass-ex5
+  * Clustering
+    * ex7.pdf
+    * mlclass-ex7
+  * Anomaly Detection
+    * ex8.pdf
+    * mlclass-ex8
