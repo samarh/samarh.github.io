@@ -191,3 +191,7 @@ Please go through the following documents and code from the repository linked:
   * Anomaly Detection
     * ex8.pdf
     * mlclass-ex8
+
+**IMPORTANT**
+
+The deadline for the submission of the project report is now 11:59 PM on Sunday, the 18th of December, 2016, and the project presentations and viva will be held on Monday.
