@@ -44,12 +44,3 @@ Teaching Assistant for:
 * CSE421 Data Mining, Fall 2016
 * CS630 Pattern Recognition, Spring 2016
 * CSE473 Digital Image Processing, Spring 2016
-
-## Awards and Honors
-
-* Fast.ai 'Certificate in Deep Learning' International Fellowship, 2016
-* Featured on Coursera as part of Andrew Ng's #LearnML campaign, 2015
-* Dean's Honor List, University of Engineering and Technology, 2014 – 2016
-* Ranked 10<sup>th</sup> out of 36,022 applicants in the Engineering College Admission Test, 2012
-* A' Level Full Scholarship, Lahore Grammar School, 2010 – 2012
-* O' Level High Achiever Award, Lahore Grammar School, 2010
