@@ -208,7 +208,7 @@ But most importantly, if you take away one thing away from this course, let it b
 
 "When you grow up you tend to get told that the world is the way it is and your life is just to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family life, have fun, save a little money. That's a very limited life. Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you. And you can change it, you can influence it… Once you learn that, you'll never be the same again." - [Steve Jobs](https://www.youtube.com/watch?v=UvEiSa6_EPA)
 
-Before you go, please take a minute to fill out this [short survey](https://docs.google.com/forms/d/e/1FAIpQLSf3PDXp63c4CnMpBLFG-Iavt7LqdAIP7gY5-CoBkNb-3Vyupg/viewform). I greatly value your feedback.
+**Before you go, please take a minute to fill out this [short survey](https://docs.google.com/forms/d/e/1FAIpQLSf3PDXp63c4CnMpBLFG-Iavt7LqdAIP7gY5-CoBkNb-3Vyupg/viewform). I greatly value your feedback.**
 
 Good luck with the rest of you finals.
 
