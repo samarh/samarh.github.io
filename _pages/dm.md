@@ -195,3 +195,9 @@ Please go through the following documents and code from the repository linked:
 **IMPORTANT**
 
 The deadline for the submission of the project report is now 11:59 PM on Sunday, the 18th of December, 2016, and the project presentations and viva will be held on Monday.
+
+## Course feedback
+
+![That's all folks!](http://img09.deviantart.net/0248/i/2013/295/d/8/that_s_all_folks__by_surrimugge-d6rfav1.png)
+
+
