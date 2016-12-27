@@ -8,14 +8,6 @@ I received my Bachelor's degree in Computer Science from the [University of Engi
 
 I am interested in machine learning, particularly deep learning and its applications in natural langauge processing and computer vision. You can view my detailed CV [here](https://samarh.github.io/samarh.github.io/docs/cv.pdf).
 
-## Research
-
-### Multilingual Language Identification
-Developed techniques to improve the identification of langauge content as well as estimate their respective proportions in code-switched multilingual webpages, with a focus on Arabic script-based languages. 
-
-### Deep Convolutional Neural Networks for Facial Keypoint Detection
-Presented a method for facial keypoint detection using deep learning techniques, experimenting with a variety of architectures and hyperparameters to improve performance. Took on the Kaggle Facial Keypoint Detection challenge and ranked in the top 20 out of all teams on the competition leaderboard.
-
 ## Projects
 
 ### Data Science for Soccer
