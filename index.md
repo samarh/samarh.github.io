@@ -9,6 +9,10 @@ I received my Bachelor's degree in Computer Science from the [University of Engi
 
 **Projects**
 
+### Convolutional Neural Networks for Facial Keypoint Detection
+Used deep learning to predict facial keypoints as a building block for applications like face tracking and expression recognition. Took on the Kaggle Facial Keypoint Detection challenge, experimenting with a variety of network architectures and hyperparameters, plus tricks like dropout, batch normalization, and data augmentation, to improve performance. <br>
+[Code]
+
 ### Data Science for Soccer
 Used machine learning to predict match outcomes, learn association rules between half-time and full-time results, and guess players' starting positions from a decade of English Premier League match statistics, betting odds, and in-game events. <br>
 [Dataset]
