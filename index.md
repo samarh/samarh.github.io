@@ -7,7 +7,7 @@ I'm a research assistant at the [Center for Language Engineering](http://www.cle
 
 I received my Bachelor's degree in Computer Science from the [University of Engineering and Technology, Lahore](http://www.uet.edu.pk/), in 2016. My senior thesis was on the use of deep learning techniques for facial keypoint detection, and my adviser was Prof. [Haroon A. Babri](http://dblp.uni-trier.de/pers/hd/b/Babri:Haroon_Atique).
 
-## Projects
+**Projects**
 
 ### Convolutional Neural Networks for Facial Keypoint Detection
 Used deep learning to predict facial keypoints as a building block for applications like face tracking and expression recognition. Took on the Kaggle Facial Keypoint Detection challenge, experimenting with a variety of network architectures and hyperparameters, plus tricks like dropout, batch normalization, and data augmentation, to improve performance. <br>
