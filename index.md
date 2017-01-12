@@ -31,7 +31,7 @@ Created a computer vision application that detects and tracks a table tennis bal
 
 ### Handwritten Digit Classifier
 Implemented from scratch a vanilla feed-forward neural network trained with batch gradient descent on a subset of MNIST. <br>
-[Code]
+[[Code](https://github.com/samarh/pingpong)]
 
 **Teaching**
 
