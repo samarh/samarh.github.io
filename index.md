@@ -27,11 +27,11 @@ Parsed real-time data from the Twitter global feed and performed elementary sent
 
 ### Ping Pong HawkEye
 Created a computer vision application that detects and tracks a table tennis ball in a real-time video stream to help analyze the trajectories of shots in a rally. <br>
-[Code]
+[[Code](https://github.com/samarh/pingpong)]
 
 ### Handwritten Digit Classifier
 Implemented from scratch a vanilla feed-forward neural network trained with batch gradient descent on a subset of MNIST. <br>
-[[Code](https://github.com/samarh/pingpong)]
+[Code]
 
 **Teaching**
 
