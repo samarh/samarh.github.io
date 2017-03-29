@@ -19,7 +19,7 @@ Used deep learning to predict facial keypoints as a building block for applicati
 
 ### Data Science for Soccer
 Used machine learning to predict match outcomes, learn association rules between half-time and full-time results, and guess players' starting positions from a decade of English Premier League match statistics, betting odds, and in-game events. <br>
-[Dataset]
+[Data]
 
 ### Automatic License Plate Recognition
 Built an image processing system to localize license plates from natural images of a range of vehicles in different lighting conditions and recognize their plate numbers. <br>
