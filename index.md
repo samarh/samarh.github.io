@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-I'm a research assistant at the [Center for Language Engineering](http://www.cle.org.pk) in Lahore, Pakistan, mentored by Prof. [Sarmad Hussain](http://www.cle.org.pk/information/people/drsarmadhussain.html). I'm currently working on techniques for improving NLP for low-resource languages like Urdu, Pakistan's lingua franca.
+I'm a research assistant at the [Center for Language Engineering](http://www.cle.org.pk) in Lahore, Pakistan. I'm currently researching techniques for improving language processing of Urdu, Pakistan's national language.
 
 I received my Bachelor's degree in Computer Science from the [University of Engineering and Technology, Lahore](http://www.uet.edu.pk/), in 2016. My senior thesis was on the use of deep learning techniques for facial keypoint detection, and my adviser was Prof. [Haroon A. Babri](http://ee.uet.edu.pk/faculty/hababri/).
 
