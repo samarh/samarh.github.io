@@ -11,7 +11,7 @@ My research interests are machine learning, deep learning, and their application
 
 <!--My detailed CV can be viewed [here](https://samarh.github.io/samarh.github.io/docs/samar-cv.pdf).-->
 
-**Projects**
+# Projects
 
 ### Convolutional Neural Networks for Facial Keypoint Detection
 Used deep learning to predict facial keypoints as a building block for applications like face tracking and expression recognition. Took on the Kaggle Facial Keypoint Detection challenge, experimenting with a variety of network architectures and hyperparameters, plus tricks like dropout, batch normalization, and data augmentation, to improve performance. <br>
@@ -37,7 +37,7 @@ Created a computer vision application that detects and tracks a table tennis bal
 Implemented from scratch a vanilla feed-forward neural network trained with batch gradient descent on a subset of MNIST. <br>
 [[Code](https://github.com/samarh/mnistnn)]
 
-**Teaching**
+# Teaching
 
 Teaching Assistant for:
 
