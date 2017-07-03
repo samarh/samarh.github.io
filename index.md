@@ -9,6 +9,10 @@ I received my Bachelor's degree in Computer Science from the [University of Engi
 
 My research interests are machine learning, deep learning, and natural language processing.
 
+**NEW** I gave a talk titled "Improving NLP for Low-resource Languages Using Word Embeddings" at the University of San Francisco's Seminar Series in Analytics. Watch it [here](https://www.meetup.com/USF-Seminar-Series-in-Analytics/events/237769358/).
+
+**NEW** My work on training Urdu word embeddings was mentioned in a Forbes story on the impact of democratizing artificial intelligence on the developing world. Read it [here](https://www.forbes.com/sites/mariyayao/2017/04/10/why-we-need-to-democratize-ai-machine-learning-education/).
+
 <!--My detailed CV can be viewed [here](https://samarh.github.io/samarh.github.io/docs/samar-cv.pdf).-->
 
 # Projects
