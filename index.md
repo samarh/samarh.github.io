@@ -7,7 +7,7 @@ I'm an Fulbright Scholar at the University of Southern California pursuing my MS
 
 I received my Bachelor's degree in Computer Science from the [University of Engineering and Technology, Lahore](http://www.uet.edu.pk/), in 2016. My senior thesis was on the use of deep learning techniques for facial keypoint detection, and my adviser was Prof. [Haroon A. Babri](http://ee.uet.edu.pk/faculty/hababri/).
 
-My research interests are machine learning, deep learning, and natural language processing.
+My research interests are natural language processing, machine learning, and deep learning.
 
 **NEW** My paper on Urdu Word Embeddings was published at LREC 2018. Read it [here](http://www.lrec-conf.org/proceedings/lrec2018/pdf/148.pdf).
 
@@ -34,14 +34,6 @@ Built an image processing system to localize license plates from natural images 
 ### Twitter Sentiment Analysis
 Parsed real-time data from the Twitter global feed and performed elementary sentiment analysis on English tweets using the AFINN-111 word-sentiment lexicon. <br>
 [[Code](https://github.com/samarh/sentiment)]
-
-### Ping Pong HawkEye
-Created a computer vision application that detects and tracks a table tennis ball in a real-time video stream to help analyze the trajectories of shots in a rally. <br>
-[[Code](https://github.com/samarh/pingpong)]
-
-### Handwritten Digit Classifier
-Implemented from scratch a vanilla feed-forward neural network trained with batch gradient descent on a subset of MNIST. <br>
-[[Code](https://github.com/samarh/mnistnn)]
 
 # Teaching
 
