@@ -39,6 +39,6 @@ Parsed real-time data from the Twitter global feed and performed elementary sent
 
 Teaching Assistant for:
 
-* CSE421 Data Mining, Fall 2016
-* CS630 Pattern Recognition, Spring 2016
+* CS375 Data Mining, Fall 2016
 * CSE473 Digital Image Processing, Spring 2016, 2017
+* CS630 Pattern Recognition, Spring 2016
