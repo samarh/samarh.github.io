@@ -17,6 +17,12 @@ My research interests are natural language processing, machine learning, and dee
 
 **NEW** My work on training Urdu word embeddings was mentioned in a Forbes story on the impact of democratizing artificial intelligence on the developing world. Read it [here](https://www.forbes.com/sites/mariyayao/2017/04/10/why-we-need-to-democratize-ai-machine-learning-education/).
 
+# Publications
+
+* Urdu Word Embeddings
+Samar Haider
+International Language Resources and Evaluation Conference (LREC), Miyazaki, Japan, 2018.
+
 # Projects
 
 ### Convolutional Neural Networks for Facial Keypoint Detection
