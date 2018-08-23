@@ -19,9 +19,7 @@ My research interests are natural language processing, machine learning, and dee
 
 # Publications
 
-* Urdu Word Embeddings
-Samar Haider
-International Language Resources and Evaluation Conference (LREC), Miyazaki, Japan, 2018.
+"Urdu Word Embeddings", Samar Haider, International Language Resources and Evaluation Conference (LREC), 2018.
 
 # Projects
 
