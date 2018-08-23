@@ -5,7 +5,7 @@ author_profile: true
 
 I'm an Fulbright Scholar at the University of Southern California pursuing my MS in Computer Science. Previously, I was a research assistant at the [Center for Language Engineering](http://www.cle.org.pk) with Prof. [Sarmad Hussain](http://www.cle.org.pk/information/people/drsarmadhussain.html), where I worked on improving language processing of Urdu, Pakistan's national language, in order to unlock information for the masses and bridge the digital divide.
 
-I received my Bachelor's degree in Computer Science from the [University of Engineering and Technology, Lahore](http://www.uet.edu.pk/), in 2016. My senior thesis was on the use of deep learning techniques for facial keypoint detection, and my adviser was Prof. [Haroon A. Babri](http://ee.uet.edu.pk/faculty/hababri/).
+I received my Bachelor's degree in Computer Science from the [University of Engineering and Technology, Lahore](http://www.uet.edu.pk/), in 2016. My senior thesis was on the use of deep learning techniques for facial keypoint detection, and my adviser was Prof. [Haroon Babri](http://ee.uet.edu.pk/faculty/hababri/).
 
 My research interests are natural language processing, machine learning, and deep learning.
 
