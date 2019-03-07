@@ -19,7 +19,7 @@ My research interests are natural language processing, machine learning, and dee
 
 **NEW** My work on training Urdu word embeddings was mentioned in a Forbes story on the impact of democratizing artificial intelligence on the developing world. [Link](https://www.forbes.com/sites/mariyayao/2017/04/10/why-we-need-to-democratize-ai-machine-learning-education/).
 
-**NEW** I received a mention in Andrew Ng's #LearnML challenge on the Coursera Blog. [Link](https://blog.coursera.org/andrew-ng-announces-winners-of-learnml-contest/)
+**NEW** I received a mention in Andrew Ng's #LearnML challenge on the Coursera Blog. [Link](https://blog.coursera.org/andrew-ng-announces-winners-of-learnml-contest/).
 
 # Publications
 
