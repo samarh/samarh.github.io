@@ -3,9 +3,9 @@ layout: single
 author_profile: true
 ---
 
-I'm a Fulbright Scholar at the University of Southern California pursuing my Master's in Computer Science, where I work with Prof. [Nanyun Peng](https://violetpeng.github.io/) and Prof. [Emilio Ferrara](http://www.emilio.ferrara.name/) at the [USC Information Sciences Institute](https://isi.edu/). Previously, I was a research assistant at the [Center for Language Engineering](http://www.cle.org.pk) with Prof. [Sarmad Hussain](http://www.cle.org.pk/information/people/drsarmadhussain.html), where I worked on improving language processing of Urdu, Pakistan's national language, in order to unlock information for the masses and bridge the digital divide.
+I'm a Fulbright Scholar at the University of Southern California pursuing my Master's in Computer Science, where I work with Prof. [Nanyun Peng](https://violetpeng.github.io/) and Prof. [Emilio Ferrara](http://www.emilio.ferrara.name/) at the [USC Information Sciences Institute](https://isi.edu/). At USC, I also serve as President of [GRIDS](https://www.linkedin.com/company/grids/), a community of data science enthusiasts and practitioners.
 
-I received my Bachelor's degree in Computer Science from the [University of Engineering and Technology, Lahore](http://www.uet.edu.pk/), in 2016. My senior thesis was on the use of deep learning techniques for facial keypoint detection, and my adviser was Prof. [Haroon Babri](http://ee.uet.edu.pk/faculty/hababri/).
+Previously, I was a research assistant at the [Center for Language Engineering](http://www.cle.org.pk) with Prof. [Sarmad Hussain](http://www.cle.org.pk/information/people/drsarmadhussain.html), where I worked on improving language processing of Urdu, Pakistan's national language, in order to unlock information for the masses and bridge the digital divide. I received my Bachelor's degree in Computer Science from the [University of Engineering and Technology, Lahore](http://www.uet.edu.pk/), in 2016. My senior thesis was on the use of deep learning techniques for facial keypoint detection, and my adviser was Prof. [Haroon Babri](http://ee.uet.edu.pk/faculty/hababri/).
 
 My research interests are natural language processing, machine learning, and deep learning.
 
