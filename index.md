@@ -23,4 +23,4 @@ Previously, I was a research assistant at the [Center for Language Engineering](
 
 # Publications
 
-[Urdu Word Embeddings](http://www.lrec-conf.org/proceedings/lrec2018/pdf/148.pdf), Samar Haider, International Language Resources and Evaluation Conference (LREC), 2018.
+[Urdu Word Embeddings](https://www.aclweb.org/anthology/L18-1155/), Samar Haider, International Language Resources and Evaluation Conference (LREC), 2018.
