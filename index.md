@@ -9,15 +9,19 @@ Previously, I was a research assistant at the [Center for Language Engineering](
 
 # News
 
+**1/19** I am the new President of USC's student data science community, [GRIDS](https://gridsusc.github.io).
+
 **8/18** I will be joining USC in Fall 2018 as a [Fulbright Scholar](https://foreign.fulbrightonline.org/about/foreign-fulbright)!
 
 **12/17** My paper on Urdu Word Embeddings was published at LREC 2018. [PDF](http://www.lrec-conf.org/proceedings/lrec2018/pdf/148.pdf).
 
 **12/17** I gave a talk and tutorial on deep learning with Python at PyCon Pakistan 2017. [Slides](http://pycon.pk/static/media/uploads/presentations/samar_haider_pycon_talk.pdf).
 
-**5/17** I gave a talk titled "Improving NLP for Low-resource Languages Using Word Embeddings" at the University of San Francisco's Seminar Series in Analytics. [Link](https://www.meetup.com/USF-Seminar-Series-in-Analytics/events/237769358/).
+**5/17** I gave a talk on NLP for low-resource languages at the University of San Francisco's Seminar Series in Analytics. [Link](https://www.meetup.com/USF-Seminar-Series-in-Analytics/events/237769358/).
 
 **4/17** My work on Urdu was mentioned in a Forbes story on the impact of democratizing artificial intelligence on the developing world. [Link](https://www.forbes.com/sites/mariyayao/2017/04/10/why-we-need-to-democratize-ai-machine-learning-education/).
+
+**10/16** I received the first-ever international fellowship from fast.ai to join their new deep learning course. [Link](https://www.fast.ai/2016/10/12/international/).
 
 **12/15** I received a mention in Andrew Ng's #LearnML challenge on the Coursera Blog. [Link](https://blog.coursera.org/andrew-ng-announces-winners-of-learnml-contest/).
 
