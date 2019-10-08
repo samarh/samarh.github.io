@@ -23,7 +23,7 @@ Previously, I was a research assistant at the [Center for Language Engineering](
 
 **10/16** I received the first-ever international fellowship from fast.ai to join their new deep learning course. [Link](https://www.fast.ai/2016/10/12/international/).
 
-**12/15** I received a mention in Andrew Ng's #LearnML challenge on the Coursera Blog. [Link](https://blog.coursera.org/andrew-ng-announces-winners-of-learnml-contest/).
+**12/15** I was featured in Andrew Ng's #LearnML challenge on the Coursera Blog. [Link](https://blog.coursera.org/andrew-ng-announces-winners-of-learnml-contest/).
 
 # Publications
 
