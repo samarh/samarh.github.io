@@ -3,8 +3,6 @@ layout: single
 author_profile: true
 ---
 
-# About
-
 I'm a graduate student at the University of Southern California studying Computer Science as a Fulbright Scholar, where I work with Prof. [Nanyun Peng](https://violetpeng.github.io/) and Prof. [Emilio Ferrara](http://www.emilio.ferrara.name/) at the [USC Information Sciences Institute](https://isi.edu/). My research interests are natural language processing, machine learning, and computational social science. I also serve as President of [GRIDS](https://gridsusc.github.io/), USC's student data science community.
 
 Previously, I was a research assistant at the [Center for Language Engineering](http://www.cle.org.pk) with Prof. [Sarmad Hussain](http://www.cle.org.pk/information/people/drsarmadhussain.html), where I worked on improving language processing of Urdu, Pakistan's national language, in order to unlock information for the masses and bridge the digital divide. I received my Bachelor's degree in Computer Science from the University of Engineering and Technology, Pakistan's oldest engineering school, in 2016. My senior thesis was on the use of deep learning techniques for facial keypoint detection, and my advisor was Prof. [Haroon Babri](https://scholar.google.com/citations?user=6WNHUaAAAAAJ&hl=en).
