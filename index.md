@@ -13,7 +13,7 @@ Previously, I was a research assistant at the [Center for Language Engineering](
 
 **1/19** I am the new President of USC's student data science community, [GRIDS](https://gridsusc.github.io).
 
-**8/18** I will be joining USC in Fall 2018 as a [Fulbright Scholar](https://foreign.fulbrightonline.org/about/foreign-fulbright).
+**8/18** I will be joining USC in Fall 2018 as a [Fulbright Scholar](https://foreign.fulbrightonline.org/).
 
 **12/17** My paper on Urdu Word Embeddings was published at LREC 2018. [PDF](http://www.lrec-conf.org/proceedings/lrec2018/pdf/148.pdf).
 
