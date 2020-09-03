@@ -9,6 +9,8 @@ Previously, I was a research assistant at the [Center for Language Engineering](
 
 # News
 
+**5/20** Honored to receive USC Viterbi School of Engineering's Best Research Award! [Link](https://viterbigrad.usc.edu/ms-awards/)
+
 **9/19** I will be presenting two posters at the Southern California NLP Symposium, [SoCalNLP](https://socalnlp.github.io/symp19/index.html).
 
 **1/19** I am the new President of USC's student data science community, [GRIDS](https://gridsusc.github.io).
