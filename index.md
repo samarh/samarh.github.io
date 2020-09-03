@@ -31,18 +31,6 @@ Previously, I was a research assistant at the [Center for Language Engineering](
 
 **12/15** I was featured in Andrew Ng's #LearnML challenge on the Coursera Blog. [Link](https://blog.coursera.org/andrew-ng-announces-winners-of-learnml-contest/).
 
-# Teaching
-
-**University of Southern California**
-
-Advanced Natural Language Processing (TA), Fall 2019.
-
-**University of Engineering and Technology**
-
-Data Mining (co-instructor), Fall 2016.
-
-Digital Image Processing (TA), Spring 2016 and 2017.
-
 # Publications
 
 [Urdu Word Embeddings](https://www.aclweb.org/anthology/L18-1155/), Samar Haider, International Language Resources and Evaluation Conference (LREC), 2018.
