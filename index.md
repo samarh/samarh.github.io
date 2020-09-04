@@ -11,7 +11,7 @@ Previously, I was a research assistant at the [Center for Language Engineering](
 
 **9/20** I will be (virtually) attending the 2020 [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/).
 
-**5/20** Honored to receive USC Viterbi School of Engineering's Best Research Award! [Link](https://viterbigrad.usc.edu/ms-awards/).
+**5/20** Honored to receive USC Viterbi School of Engineering's [Best Research Award](https://viterbigrad.usc.edu/ms-awards/)!
 
 **9/19** I will be presenting two posters at the Southern California NLP Symposium, [SoCalNLP](https://socalnlp.github.io/symp19/index.html).
 
