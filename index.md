@@ -9,7 +9,7 @@ Previously, I was a research assistant at the [Center for Language Engineering](
 
 # News
 
-**9/20** I will be (virtually) attending the 2020 Heidelberg Laureate Forum.
+**9/20** I will be (virtually) attending the 2020 [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/).
 
 **5/20** Honored to receive USC Viterbi School of Engineering's Best Research Award! [Link](https://viterbigrad.usc.edu/ms-awards/).
 
