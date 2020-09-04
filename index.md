@@ -21,7 +21,7 @@ Previously, I was a research assistant at the [Center for Language Engineering](
 
 **12/17** My paper on Urdu Word Embeddings was published at LREC 2018. [PDF](http://www.lrec-conf.org/proceedings/lrec2018/pdf/148.pdf).
 
-**12/17** I gave a talk and tutorial on deep learning with Python at PyCon Pakistan 2017. [Slides](http://pycon.pk/static/media/uploads/presentations/samar_haider_pycon_talk.pdf).
+**12/17** I gave a talk on deep learning with Python at PyCon Pakistan 2017. [Slides](http://pycon.pk/static/media/uploads/presentations/samar_haider_pycon_talk.pdf).
 
 **5/17** I gave a talk on NLP for low-resource languages at the University of San Francisco's Seminar Series in Analytics. [Link](https://www.meetup.com/USF-Seminar-Series-in-Analytics/events/237769358/).
 
