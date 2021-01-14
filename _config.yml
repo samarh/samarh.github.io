@@ -56,7 +56,7 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : G-EKWV6VKJD2
+    tracking_id          : UA-187462347-1
 
 
 # Site Author
