@@ -5,11 +5,11 @@ author_profile: true
 
 I'm a PhD student in the Department of Computer and Information Science at the University of Pennsylvania, advised by Prof. [Duncan Watts](https://www.asc.upenn.edu/people/faculty/duncan-j-watts-phd) and Prof. [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/). My research interests are in computational social science and natural language processing. I received my MS from the University of Southern California, where I was a Fulbright Scholar and worked with Prof. [Emilio Ferrara](http://www.emilio.ferrara.name/) and Prof. [Nanyun Peng](https://violetpeng.github.io/) at the [USC Information Sciences Institute](https://isi.edu/).
 
-Before that, I was a research assistant at the [Center for Language Engineering](http://www.cle.org.pk) with Prof. [Sarmad Hussain](http://www.cle.org.pk/information/people/drsarmadhussain.html), where I worked on improving language processing of Urdu, Pakistan's national language, in order to unlock information for the masses and bridge the digital divide. I received my Bachelor's degree in Computer Science from the University of Engineering and Technology, Pakistan's oldest engineering school, in 2016. My senior thesis was on the use of deep learning techniques for facial keypoint detection, and my advisor was Prof. [Haroon Babri](https://scholar.google.com/citations?user=6WNHUaAAAAAJ&hl=en).
+Before that, I was a research assistant at the [Center for Language Engineering](http://www.cle.org.pk) with Prof. [Sarmad Hussain](http://www.cle.org.pk/information/people/drsarmadhussain.html), where I worked on improving language processing of Urdu, Pakistan's national language, in order to unlock information for the masses and bridge the digital divide. I received my BS from the University of Engineering and Technology, Pakistan's oldest engineering school, in 2016. My senior thesis was on the use of deep learning techniques for facial keypoint detection, and my advisor was Prof. [Haroon Babri](https://scholar.google.com/citations?user=6WNHUaAAAAAJ&hl=en).
 
 # News
 
-**7/21** I will be attending [Networks 2021](https://networks2021.net/) and [IC2S2 2021](https://ic2s2-2021.ethz.ch/).
+**7/21** I will be presenting some recent work at [Networks 2021](https://networks2021.net/) and [IC2S2 2021](https://ic2s2-2021.ethz.ch/).
 
 **9/20** I will be (virtually) attending the 2020 [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/).
 
