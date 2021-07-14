@@ -5,7 +5,7 @@ author_profile: true
 
 I'm a PhD student in the Department of Computer and Information Science at the University of Pennsylvania, advised by Prof. [Duncan Watts](https://www.asc.upenn.edu/people/faculty/duncan-j-watts-phd) and Prof. [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/). My research interests are in computational social science and natural language processing. I received my MS from the University of Southern California, where I worked with Prof. [Emilio Ferrara](http://www.emilio.ferrara.name/) and Prof. [Nanyun Peng](https://violetpeng.github.io/) at the [USC Information Sciences Institute](https://isi.edu/).
 
-Before that, I was a research assistant at the [Center for Language Engineering](http://www.cle.org.pk) with Prof. [Sarmad Hussain](http://www.cle.org.pk/information/people/drsarmadhussain.html). I received my BS from the University of Engineering and Technology, Lahore, in 2016, and was advised by Prof. [Haroon Babri](https://scholar.google.com/citations?user=6WNHUaAAAAAJ&hl=en).
+Before that, I was a research assistant at the [Center for Language Engineering](http://www.cle.org.pk) with Prof. [Sarmad Hussain](http://www.cle.org.pk/information/people/drsarmadhussain.html) and received my BS from the University of Engineering and Technology, Lahore, in 2016, advised by Prof. [Haroon Babri](https://scholar.google.com/citations?user=6WNHUaAAAAAJ&hl=en).
 
 # News
 
