@@ -11,7 +11,9 @@ Before that, I was a research assistant at the [Center for Language Engineering]
 
 **7/21** I will be presenting some recent work at [Networks 2021](https://networks2021.net/) and [IC2S2 2021](https://ic2s2-2021.ethz.ch/).
 
-**9/20** I will be (virtually) attending the 2020 [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/).
+**9/20** I will be attending the 2020 [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/).
+
+**8/20** Started my PhD at UPenn!
 
 **5/20** Honored to receive USC Viterbi School of Engineering's [Best Research Award](https://viterbigrad.usc.edu/ms-awards/)!
 
@@ -19,7 +21,7 @@ Before that, I was a research assistant at the [Center for Language Engineering]
 
 **1/19** I am the new President of USC's student data science community, [GRIDS](https://gridsusc.github.io).
 
-**8/18** I will be joining USC in Fall 2018 as a [Fulbright Scholar](https://foreign.fulbrightonline.org/).
+**8/18** Started my MS at USC!
 
 **12/17** My paper on Urdu Word Embeddings was published at LREC 2018. [PDF](http://www.lrec-conf.org/proceedings/lrec2018/pdf/148.pdf).
 
