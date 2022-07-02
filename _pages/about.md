@@ -12,4 +12,4 @@ I'm a PhD student in the Department of Computer and Information Science at the U
 
 Before coming to Penn, I received my MS in Computer Science from the University of Southern California, where I was a [Fulbright Scholar](https://eca.state.gov/fulbright/about-fulbright/fulbright-program-overview) and worked with [Emilio Ferrara](http://www.emilio.ferrara.name/) and [Nanyun Peng](https://violetpeng.github.io/) at the [Information Sciences Institute](https://isi.edu/). I also served as President of [GRIDS](https://gridsusc.github.io/), USC's student data science community.
 
-I received my BSc, also in Computer Science, from the University of Engineering and Technology, Lahore, and spent a couple of years building natural language processing systems for Urdu at its Center for Language Engineering.
+I received my BSc, also in Computer Science, from the [University of Engineering and Technology, Lahore](https://uet.edu.pk/), and spent a couple of years building natural language processing systems for Urdu at its [Center for Language Engineering](https://www.cle.org.pk/).
