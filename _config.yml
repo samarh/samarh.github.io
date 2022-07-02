@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Samar Haider"
   avatar           : "profile.png"
-  bio              : "PhD Student at UPenn"
+  bio              : # "PhD Student at UPenn"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
