@@ -13,3 +13,5 @@ I'm a PhD student in the Department of Computer and Information Science at the U
 Before coming to Penn, I received my MS in Computer Science from the University of Southern California, where I was a Fulbright Scholar and worked with [Emilio Ferrara](http://www.emilio.ferrara.name/) and [Nanyun Peng](https://vnpeng.net/) at the [Information Sciences Institute](https://isi.edu/).
 
 I received my BSc, also in Computer Science, from the [University of Engineering and Technology, Lahore](https://uet.edu.pk/), and spent a couple of years building natural language processing systems for Urdu at its [Center for Language Engineering](https://www.cle.org.pk/).
+
+Here is my [CV](https://www.dropbox.com/s/udwil81sw1gf669/CV_Samar_Haider.pdf?raw=1).
