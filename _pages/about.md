@@ -8,10 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in the Department of Computer and Information Science at the University of Pennsylvania, where I am advised by [Duncan Watts](https://duncanjwatts.com/) and [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) and am part of the [CSSLab](https://css.seas.upenn.edu/) and [PennNLP](https://nlp.cis.upenn.edu/). My research interests are in computational social science and natural language processing.
+I'm a fourth-year PhD student in the Department of Computer and Information Science at the University of Pennsylvania, where I am advised by [Duncan Watts](https://duncanjwatts.com/) and [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/). My research interests are at the intersection of computational social science and natural language processing, with a focus on investigating bias in the mainstream media. I use large language models to study publishing patterns in the U.S. news landcape, what events newspapers choose to report on, and how they frame their stories. I am part of the [Penn Media Accountability Project](https://css.seas.upenn.edu/project/penn-map/).
 
-Before coming to Penn, I received my MS in Computer Science from the University of Southern California, where I was a Fulbright Scholar and worked with [Emilio Ferrara](http://www.emilio.ferrara.name/) and [Nanyun Peng](https://vnpeng.net/) at the [Information Sciences Institute](https://isi.edu/).
-
-I received my BSc, also in Computer Science, from the [University of Engineering and Technology, Lahore](https://uet.edu.pk/), and spent a couple of years building natural language processing systems for Urdu at its [Center for Language Engineering](https://www.cle.org.pk/).
+Before coming to Penn, I received my MS in Computer Science from the University of Southern California, where I was a Fulbright Scholar and worked with [Emilio Ferrara](http://www.emilio.ferrara.name/) and [Nanyun Peng](https://vnpeng.net/) at the [Information Sciences Institute](https://isi.edu/). I received my BSc, also in Computer Science, from the [University of Engineering and Technology, Lahore](https://uet.edu.pk/), and spent a couple of years building natural language processing systems for Urdu, my native language. Some of my work here was featured on [Forbes](https://www.forbes.com/sites/mariyayao/2017/04/10/why-we-need-to-democratize-ai-machine-learning-education/).
 
 Here is my [CV](https://www.dropbox.com/s/udwil81sw1gf669/CV_Samar_Haider.pdf?raw=1).
+
+### News
+
+04/2024: Four submissions accepted to [IC2S2 2024](https://ic2s2-2024.org/). 
+
+03/2024: Our [paper](https://arxiv.org/abs/2305.14610) on evaluating geopolitical bias in LLMs was accepted to [NAACL 2024](https://2024.naacl.org/).
+
+03/2024: I gave a talk about LLMs and Retrieval-Augmented Generation (RAG) at [PyCon Pakistan 2024](https://pycon.pk/).
+
+01/2024: I'm organizing the 2024 [Summer Institute in Computational Social Science](https://sicss.io/2024/penn/) at Penn.
+
+12/2023: I received an **Outstanding Reviewer Award** from EMNLP 2023!
+
+11/2023: I'll be presenting my work on mapping the U.S. news landscape at [TADA 2023](https://tada2023.org/).
+
+10/2023: I'm serving as Tutorial Chair for [IC2S2 2024](https://ic2s2-2024.org/). 
