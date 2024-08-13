@@ -16,7 +16,7 @@ Here is my [CV](https://www.dropbox.com/s/udwil81sw1gf669/CV_Samar_Haider.pdf?ra
 
 ### News
 
-07/2024: We organized the first joint [SICSS](https://sicss.io/2024/penn/) and [IC2S2](https://ic2s2-2024.org/) at Penn. We hope you all enjoyed your time in Philadelphia!
+07/2024: We organized the first-ever joint [SICSS](https://sicss.io/2024/penn/) and [IC2S2](https://ic2s2-2024.org/) at Penn. We hope you all enjoyed your time in Philadelphia!
 
 06/2024: We launched the [Media Bias Detector](https://mediabiasdetector.seas.upenn.edu/)! Read more about it [here](https://penntoday.upenn.edu/news/conversation-duncan-watts-and-csslab) and listen to us [talk](https://www.youtube.com/watch?v=9kybWo-2cSs) about the project.
 
