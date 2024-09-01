@@ -5,71 +5,47 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### This Land is {Your, My} Land: Evaluating Geopolitical Biases in Language Models Through Territorial Disputes
 
-<h2>This Land is {Your, My} Land: Evaluating Geopolitical Biases in Language Models Through Territorial Disputes</h2>
-<p>
-  Bryan Li, <b>Samar Haider</b>, Chris Callison-Burch
-  <br>
-  <i>Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024</i>
-</p>
+Bryan Li, **Samar Haider**, Chris Callison-Burch  
+*Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024*
 
-<h2>Vizard: Improving Visual Data Literacy with Large Language Models</h2>
-<p>
-  Rubab Zahra Sarfraz, <b>Samar Haider</b>
-  <br>
-  <i>International Workshop on Big Data Visual Exploration and Analytics (BigVis) at VLDB, 2024</i>
-</p>
+### Vizard: Improving Visual Data Literacy with Large Language Models
 
-<h2>Investigating the Impact of Media Bias on News Readers</h2>
-<p>
-  Amir Tohidi, <b>Samar Haider</b>, Duncan Watts
-  <br>
-  <i>International Conference on Computational Social Science (IC2S2), 2024</i>
-</p>
+Rubab Zahra Sarfraz, **Samar Haider**  
+*International Workshop on Big Data Visual Exploration and Analytics (BigVis) at VLDB, 2024*
 
-<h2>Measuring Diversity in Online News</h2>
-<p>
-  <b>Samar Haider</b>, David Rothschild, Chris Callison-Burch, Duncan Watts
-  <br>
-  <i>International Conference on Computational Social Science (IC2S2), 2023</i>
-  <br>
-  * Also presented at <i>New Directions in Analyzing Text as Data (TADA), 2023</i>
-</p>
+### Investigating the Impact of Media Bias on News Readers
 
-<h2>Mapping the U.S. News Landscape</h2>
-<p>
-  <b>Samar Haider</b>, David Rothschild, Duncan Watts</b>
-  <br>
-  <i>International Conference on Computational Social Science (IC2S2), 2023</i>
-</p>
+Amir Tohidi, **Samar Haider**, Duncan Watts  
+*International Conference on Computational Social Science (IC2S2), 2024*
 
-<h2>Detecting Social Media Manipulation in Low-Resource Languages</h2>
-<p>
-  <b>Samar Haider</b>, Luca Luceri, Ashok Deb, Adam Badawy, Nanyun Peng, Emilio Ferrara
-  <br>
-  <i>WWW '23: Companion Proceedings of the ACM Web Conference, 2023</i>
-</p>
+### Measuring Diversity in Online News
 
-<h2>Digital Civic Participation and Misinformation during the 2020 Taiwanese Presidential Election</h2>
-<p>
-  Ho-Chun Herbert Chang, <b>Samar Haider</b>, Emilio Ferrara
-  <br>
-  <i>Media and Communication, 2021, 9(1), 144-157</i>
-</p>
+**Samar Haider**, David Rothschild, Chris Callison-Burch, Duncan Watts  
+*International Conference on Computational Social Science (IC2S2), 2023*  
 
-<h2>The First Casualty of War is Truth: A Dataset for Multilingual Fake News Detection</h2>
-<p>
-  <b>Samar Haider</b>, Ashok Deb, Nanyun Peng, Emilio Ferrara
-  <br>
-  <i>Southern California NLP Symposium (SoCalNLP), 2019</i>
-</p>
+### Mapping the U.S. News Landscape
 
-<h2>Urdu Word Embeddings</h2>
-<p>
-<b>Samar Haider</b>
-  <br>
-  <i>International Conference on Language Resources and Evaluation (LREC), 2018</i>
-</p>
+**Samar Haider**, David Rothschild, Duncan Watts  
+*International Conference on Computational Social Science (IC2S2), 2023*
+
+### Detecting Social Media Manipulation in Low-Resource Languages
+
+**Samar Haider**, Luca Luceri, Ashok Deb, Adam Badawy, Nanyun Peng, Emilio Ferrara  
+*WWW '23: Companion Proceedings of the ACM Web Conference, 2023*
+
+### Digital Civic Participation and Misinformation during the 2020 Taiwanese Presidential Election
+
+Ho-Chun Herbert Chang, **Samar Haider**, Emilio Ferrara  
+*Media and Communication, 2021, 9(1), 144-157*
+
+### The First Casualty of War is Truth: A Dataset for Multilingual Fake News Detection
+
+**Samar Haider**, Ashok Deb, Nanyun Peng, Emilio Ferrara  
+*Southern California NLP Symposium (SoCalNLP), 2019*
+
+### Urdu Word Embeddings
+
+**Samar Haider**  
+*International Conference on Language Resources and Evaluation (LREC), 2018*
