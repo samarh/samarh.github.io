@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+<br>
+
 **Jun 19, 2024**. Presented my paper on "Measuring Diversity in Online News" at IC2S2 2024.
 
 **Jul 8, 2024**. Gave a tutorial in Python at the Summer Institute in Computational Social Science (SICSS) at UPenn.
