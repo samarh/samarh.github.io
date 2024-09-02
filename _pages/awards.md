@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-<table>
+<table border="0">
   <tr>
     <td><strong>2023</strong></td>
     <td>Outstanding Reviewer Award, EMNLP</td>
