@@ -47,6 +47,8 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+   display: flex;
+   justify-content: flex-end;
 
   &--lg {
     padding-right: 2em;
