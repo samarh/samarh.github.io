@@ -16,6 +16,8 @@
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
+     display: flex;
+     justify-content: flex-end; 
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -23,6 +25,9 @@
 
     nav {
       z-index: 10;
+       display: flex; 
+       justify-content: flex-end; 
+       
     }
 
     a {
@@ -38,8 +43,7 @@
     padding: 0;
     clear: both;
     list-style-type: none;
-   display: flex;
-   justify-content: flex-end;
+    display: flex;
   }
 }
 
