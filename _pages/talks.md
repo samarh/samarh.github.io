@@ -7,9 +7,9 @@ author_profile: true
 
 <br>
 
-**Jun 19, 2024**. Presented my paper on "Measuring Diversity in Online News" at IC2S2 2024.
+**Jul 19, 2024**. Presented my paper on "Measuring Diversity in Online News" at IC2S2 2024.
 
-**Jul 8, 2024**. Gave a tutorial in Python at the Summer Institute in Computational Social Science (SICSS) at UPenn.
+**Jul 8, 2024**. Gave a tutorial on Python at the Summer Institute in Computational Social Science (SICSS) at UPenn.
 
 **Jun 18, 2024**. Presented our paper on "This Land is Your/My Land: Evaluating Geopolitical Biases in Language Models" at NAACL 2024.
 
