@@ -1,16 +1,4 @@
 # main links links
 main:
-  - title: "Awards"
-    url: /awards/
-    
-  - title: "Research"
-    url: /publications/
-    
-  - title: "Talks"
-    url: /talks/
-    
-  - title: "Teaching"
-    url: /teaching/
-    
   - title: "CV"
     url: "https://www.dropbox.com/s/udwil81sw1gf669/CV_Samar_Haider.pdf?raw=1"
