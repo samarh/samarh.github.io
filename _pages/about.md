@@ -10,8 +10,6 @@ redirect_from:
 
 ### Hello
 
-About
-
 I’m a computational social scientist who studies the media information ecosystem. 
 
 I'm currently a postdoctoral researcher at Northwestern University in the Kellogg School of Management. I received my PhD in Computer and Information Science from the University of Pennsylvania where I worked with [Duncan J. Watts](https://duncanjwatts.com/) and [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/).
