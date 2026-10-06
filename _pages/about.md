@@ -28,7 +28,7 @@ Service and community building are an important part of my academic work, partic
 
 09/2026: Our Media Bias Detector paper was published in Science Advances! Check out the [paper](https://www.science.org/doi/10.1126/sciadv.aea7456), and [read us talk](https://www.engineering.upenn.edu/stories/ai-helps-detect-media-bias-informing-voters-and-news-consumers/) about its broader impact!
 
-08/2026: I defended my PhD and will be starting a postdoc at Northwestern! 
+08/2026: I defended my PhD and will be my postdoc at Northwestern! 
 
 04/2025: I'm co-chairing the 2025 [NAACL Student Research Workshop (SRW)](https://naacl2025-srw.github.io/). See you all in Albuquerque!
 
