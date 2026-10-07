@@ -12,11 +12,9 @@ I’m a computational social scientist who studies the media information ecosyst
 
 I'm currently a postdoctoral researcher at Northwestern University in the Kellogg School of Management. I received my PhD in Computer and Information Science from the University of Pennsylvania where I worked with [Duncan Watts](https://duncanjwatts.com/) and [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/).
 
+My research focuses on using computational approaches to study news production systematically and at scale. I combine large language models with large-scale datasets to analyze what topics and events news outlets choose to cover, how they frame their coverage through partisan slant and tone, and whose voices they amplify through their choices of whom to quote. 
+
 Here is my [CV](https://www.dropbox.com/s/udwil81sw1gf669/CV_Samar_Haider.pdf?raw=1).
-
-### Research
-
-My research focuses on using computational approaches to study news production systematically and at scale. I combine large language models with large-scale datasets to analyze what topics and events news outlets choose to cover, how they frame their coverage through partisan slant and tone, and whose voices they amplify through their choices of whom to quote. Across my work, I aim not only to produce academic research, but also to build public-facing tools, datasets, and resources that make these findings accessible and useful beyond the research community.
 
 ### News
 
