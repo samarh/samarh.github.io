@@ -30,23 +30,49 @@ Here is my [CV](https://www.dropbox.com/s/udwil81sw1gf669/CV_Samar_Haider.pdf?ra
 
 ### Papers
 
-- **Samar Haider**, Amir Tohidi, Jenny S. Wang, Timothy Dörr, David M. Rothschild, Chris Callison-Burch, Duncan J. Watts. [“The Media Bias Detector: A Framework for Annotating and Analyzing the News.”](https://www.science.org/doi/10.1126/sciadv.aea7456) *Science Advances*, eaea7456, 2026.
+- [“The Media Bias Detector: A Framework for Annotating and Analyzing the News.”](https://www.science.org/doi/10.1126/sciadv.aea7456)<br>
+  <u>Samar Haider</u>, Amir Tohidi, Jenny S. Wang, Timothy Dörr, David M. Rothschild, Chris Callison-Burch, Duncan J. Watts.<br>
+  **Science Advances**, eaea7456, 2026.
 
-- Jenny Allen, Amir Tohidi, **Samar Haider**, David Rothschild, Duncan J. Watts. [“Selective Facts Can Be As Persuasive As Falsehoods.”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400466) R&R at *Science Advances*, 2026.
+- [“Selective Facts Can Be As Persuasive As Falsehoods.”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400466)<br>
+  Jenny Allen, Amir Tohidi, <u>Samar Haider</u>, David Rothschild, Duncan J. Watts.<br>
+  R&R at **Science Advances**, 2026.
 
-- Amir Tohidi, **Samar Haider**, Duncan J. Watts. [“Rethinking News Framing with Large Language Models.”](https://www.nature.com/articles/s41598-025-29519-9) *Scientific Reports*, 2025.
+- [“Rethinking News Framing with Large Language Models.”](https://www.nature.com/articles/s41598-025-29519-9)<br>
+  Amir Tohidi, <u>Samar Haider</u>, Duncan J. Watts.<br>
+  **Scientific Reports**, 2025.
 
-- Jenny Wang, **Samar Haider**, Amir Tohidi, Anushkaa Gupta, Yuxuan Zhang, Chris Callison-Burch, David Rothschild, Duncan J. Watts. [“Media Bias Detector: Designing and Implementing a Tool for Real-Time Selection and Framing Bias Analysis in News Coverage.”](https://doi.org/10.1145/3706598.3713716) In *Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI)*, 2025.
+- [“Media Bias Detector: Designing and Implementing a Tool for Real-Time Selection and Framing Bias Analysis in News Coverage.”](https://doi.org/10.1145/3706598.3713716)<br>
+  Jenny Wang, <u>Samar Haider</u>, Amir Tohidi, Anushkaa Gupta, Yuxuan Zhang, Chris Callison-Burch, David Rothschild, Duncan J. Watts.<br>
+  **Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI)**, 2025.
 
-- Bryan Li, Fiona Luo, **Samar Haider**, Adwait Agashe, Siyu Li, Runqi Liu, Muqing Miao, Shriya Ramakrishnan, Yuan Yuan, Chris Callison-Burch. [“Multilingual Retrieval Augmented Generation for Culturally-Sensitive Tasks: A Benchmark for Cross-lingual Robustness.”](https://aclanthology.org/2025.findings-acl.219/) In *Findings of the Association for Computational Linguistics (ACL)*, 2025.
+- [“Multilingual Retrieval Augmented Generation for Culturally-Sensitive Tasks: A Benchmark for Cross-lingual Robustness.”](https://aclanthology.org/2025.findings-acl.219/)<br>
+  Bryan Li, Fiona Luo, <u>Samar Haider</u>, Adwait Agashe, Siyu Li, Runqi Liu, Muqing Miao, Shriya Ramakrishnan, Yuan Yuan, Chris Callison-Burch.<br>
+  **Findings of the Association for Computational Linguistics (ACL)**, 2025.
 
-- Bryan Li, **Samar Haider**, Chris Callison-Burch. [“This Land is {Your, My} Land: Evaluating Geopolitical Bias in Language Models through Territorial Disputes.”](https://aclanthology.org/2024.naacl-long.213/) In *Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)*, 2024.
+- [“This Land is {Your, My} Land: Evaluating Geopolitical Bias in Language Models through Territorial Disputes.”](https://aclanthology.org/2024.naacl-long.213/)<br>
+  Bryan Li, <u>Samar Haider</u>, Chris Callison-Burch.<br>
+  **Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)**, 2024.
 
-- Bryan Li, **Samar Haider**, Fiona Luo, Adwait Agashe, Chris Callison-Burch. [“BordIRlines: A Dataset for Evaluating Cross-lingual Retrieval Augmented Generation.”](https://aclanthology.org/2024.wikinlp-1.3/) In *Workshop on Advancing Natural Language Processing for Wikipedia (WikiNLP) at EMNLP*, 2024.
+- [“BordIRlines: A Dataset for Evaluating Cross-lingual Retrieval Augmented Generation.”](https://aclanthology.org/2024.wikinlp-1.3/)<br>
+  Bryan Li, <u>Samar Haider</u>, Fiona Luo, Adwait Agashe, Chris Callison-Burch.<br>
+  **Workshop on Advancing Natural Language Processing for Wikipedia (WikiNLP) at EMNLP**, 2024.
 
-- Rubab Zahra Sarfraz, **Samar Haider**. [“Vizard: Improving Visual Data Literacy with Large Language Models.”](https://vldb.org/workshops/2024/proceedings/BigVis/BigVis2024_05.pdf) In *International Workshop on Big Data Visual Exploration and Analytics (BigVis) at VLDB*, 2024.
+- [“Vizard: Improving Visual Data Literacy with Large Language Models.”](https://vldb.org/workshops/2024/proceedings/BigVis/BigVis2024_05.pdf)<br>
+  Rubab Zahra Sarfraz, <u>Samar Haider</u>.<br>
+  **International Workshop on Big Data Visual Exploration and Analytics (BigVis) at VLDB**, 2024.
 
-- **Samar Haider**, Luca Luceri, Ashok Deb, Adam Badawy, Nanyun Peng, Emilio Ferrara. [“Detecting Social Media Manipulation in Low-Resource Languages.”](https://arxiv.org/abs/2011.05367) In *Companion Proceedings of the ACM Web Conference (WWW)*, 2023.
+- [“Detecting Social Media Manipulation in Low-Resource Languages.”](https://arxiv.org/abs/2011.05367)<br>
+  <u>Samar Haider</u>, Luca Luceri, Ashok Deb, Adam Badawy, Nanyun Peng, Emilio Ferrara.<br>
+  In **Companion Proceedings of the ACM Web Conference (WWW)**, 2023.
+
+- [“Digital Civic Participation and Misinformation during the 2020 Taiwanese Presidential Election.”](https://www.cogitatiopress.com/mediaandcommunication/article/view/3405)<br>
+  Ho-Chun Herbert Chang, <u>Samar Haider</u>, Emilio Ferrara.<br>
+  **Media and Communication**, 2021.
+
+- [“Urdu Word Embeddings.”](https://aclanthology.org/L18-1155/)<br>
+  <u>Samar Haider</u>.<br>
+**International Conference on Language Resources and Evaluation (LREC)**, 2018.
 
 - Ho-Chun Herbert Chang, **Samar Haider**, Emilio Ferrara. [“Digital Civic Participation and Misinformation during the 2020 Taiwanese Presidential Election.”](https://www.cogitatiopress.com/mediaandcommunication/article/view/3405) *Media and Communication*, 2021.
 
