@@ -73,7 +73,3 @@ Here is my [CV](https://www.dropbox.com/s/udwil81sw1gf669/CV_Samar_Haider.pdf?ra
 - [“Urdu Word Embeddings.”](https://aclanthology.org/L18-1155/)<br>
   <u>Samar Haider</u>.<br>
 **International Conference on Language Resources and Evaluation (LREC)**, 2018.
-
-- Ho-Chun Herbert Chang, **Samar Haider**, Emilio Ferrara. [“Digital Civic Participation and Misinformation during the 2020 Taiwanese Presidential Election.”](https://www.cogitatiopress.com/mediaandcommunication/article/view/3405) *Media and Communication*, 2021.
-
-- **Samar Haider**. [“Urdu Word Embeddings.”](https://aclanthology.org/L18-1155/) In *International Conference on Language Resources and Evaluation (LREC)*, 2018.
