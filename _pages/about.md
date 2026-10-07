@@ -64,7 +64,7 @@ Here is my [CV](https://www.dropbox.com/s/udwil81sw1gf669/CV_Samar_Haider.pdf?ra
 
 - [“Detecting Social Media Manipulation in Low-Resource Languages.”](https://arxiv.org/abs/2011.05367)<br>
   <u>Samar Haider</u>, Luca Luceri, Ashok Deb, Adam Badawy, Nanyun Peng, Emilio Ferrara.<br>
-  In **Companion Proceedings of the ACM Web Conference (WWW)**, 2023.
+  **Companion Proceedings of the ACM Web Conference (WWW)**, 2023.
 
 - [“Digital Civic Participation and Misinformation during the 2020 Taiwanese Presidential Election.”](https://www.cogitatiopress.com/mediaandcommunication/article/view/3405)<br>
   Ho-Chun Herbert Chang, <u>Samar Haider</u>, Emilio Ferrara.<br>
