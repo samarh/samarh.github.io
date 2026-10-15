@@ -32,7 +32,7 @@ Here is my [CV](https://www.dropbox.com/s/udwil81sw1gf669/CV_Samar_Haider.pdf?ra
 
 - [The Media Bias Detector: A Framework for Annotating and Analyzing the News.](https://www.science.org/doi/10.1126/sciadv.aea7456)<br>
   <u>Samar Haider</u>, Amir Tohidi, Jenny S. Wang, Timothy Dörr, David M. Rothschild, Chris Callison-Burch, Duncan J. Watts.<br>
-  **Science Advances**, eaea7456, 2026.
+  **Science Advances**, 2026.
 
 - [Selective Facts Can Be As Persuasive As Falsehoods.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5400466)<br>
   Jenny Allen, Amir Tohidi, <u>Samar Haider</u>, David Rothschild, Duncan J. Watts.<br>
